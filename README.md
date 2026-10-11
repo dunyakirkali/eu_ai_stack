@@ -166,6 +166,8 @@ flowchart TD
 | `ai_stack_tech_tree.md` | Mermaid dependency tree of the AI stack, with EU strengths (green) and bottlenecks (orange) |
 | `companies.json` | Source of truth: 451 European companies with layer, location, role, confidence and notes |
 | `build.py` | Regenerates the three files below from `companies.json` (`python3 build.py`) |
+| `etf_coverage.md` | Which few ETFs hold these companies: two ETFs hold 98 of the 99 listed ones we could match |
+| `etf_coverage.json` | Company-to-ETF mapping behind it |
 | `eu_companies_by_layer.md` | The companies as one table per layer |
 | `eu_companies.geojson` | Map of those companies at their headquarters. GitHub renders it as an interactive map |
 | `eu_map.html` | Same map as a standalone page with clustering, a toggle per layer and a low-confidence filter. Open it locally, GitHub shows only the source |

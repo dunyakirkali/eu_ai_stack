@@ -1,0 +1,418 @@
+{
+ "ABB": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "ACS Group": [
+  "EXSA",
+  "IWDA"
+ ],
+ "AMG Critical Materials": [
+  "ESCE"
+ ],
+ "ASM International": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "ASML": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "AT&S": [
+  "ESCE",
+  "EXSA",
+  "EXSM",
+  "EXV3"
+ ],
+ "Air Liquide": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Aixtron": [
+  "ESCE",
+  "EXSA",
+  "EXSM",
+  "EXV3"
+ ],
+ "Alfa Laval": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Anglo American": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Antofagasta plc": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Arkema": [
+  "ESCE",
+  "EXSA",
+  "EXSM"
+ ],
+ "Aurubis": [
+  "ESCE",
+  "EXSA",
+  "EXSM"
+ ],
+ "BASF": [
+  "EXSA",
+  "IWDA"
+ ],
+ "BE Semiconductor Industries (Besi)": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "Boliden": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Bouygues": [
+  "EXSA",
+  "IWDA"
+ ],
+ "COMET Group": [
+  "ESCE",
+  "EXSA",
+  "EXV3"
+ ],
+ "Capgemini": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "Dassault Systemes": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "Deutsche Telekom (T-Systems)": [
+  "EXSA",
+  "IWDA"
+ ],
+ "E.ON": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "ENGIE": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Elkem": [
+  "ESCE"
+ ],
+ "Elmos Semiconductor": [
+  "ESCE"
+ ],
+ "Enel": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Equinor": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Eramet": [
+  "ESCE"
+ ],
+ "Evonik": [
+  "EXSA",
+  "EXSM",
+  "IWDA"
+ ],
+ "Ferrovial": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Fortum": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Glencore": [
+  "EXSA",
+  "IWDA"
+ ],
+ "HUBER+SUHNER": [
+  "ESCE",
+  "EXSA"
+ ],
+ "Henkel": [
+  "IWDA"
+ ],
+ "INFICON": [
+  "ESCE",
+  "EXH4",
+  "EXSA"
+ ],
+ "IONOS": [
+  "ESCE"
+ ],
+ "Iberdrola": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Imerys": [
+  "ESCE"
+ ],
+ "Infineon": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "Jenoptik": [
+  "ESCE"
+ ],
+ "Johnson Matthey": [
+  "ESCE",
+  "EXSA"
+ ],
+ "KGHM Polska Miedz": [
+  "EXSA"
+ ],
+ "Klarna": [
+  "ESCE"
+ ],
+ "Legrand": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Linde plc": [
+  "IWDA"
+ ],
+ "Melexis": [
+  "ESCE"
+ ],
+ "Merck KGaA": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Merlin Properties": [
+  "ESCE",
+  "EXSA"
+ ],
+ "Metlen Energy & Metals": [
+  "ESCE",
+  "EXH9",
+  "EXSA",
+  "EXSM"
+ ],
+ "Munters": [
+  "ESCE"
+ ],
+ "Mycronic": [
+  "ESCE",
+  "EXSA",
+  "EXV3"
+ ],
+ "NKT": [
+  "ESCE",
+  "EXH4",
+  "EXSA"
+ ],
+ "NXP": [
+  "IWDA"
+ ],
+ "National Grid": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Nebius": [
+  "IWDA"
+ ],
+ "Nexans": [
+  "ESCE",
+  "EXH4",
+  "EXSA"
+ ],
+ "Nokia": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Nordex": [
+  "ESCE",
+  "EXSA",
+  "EXSM"
+ ],
+ "Nordic Semiconductor": [
+  "ESCE",
+  "EXSA",
+  "EXV3"
+ ],
+ "Norsk Hydro": [
+  "EXSA",
+  "IWDA"
+ ],
+ "OVHcloud": [
+  "ESCE"
+ ],
+ "Orsted": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Oxford Instruments": [
+  "ESCE"
+ ],
+ "PVA TePla": [
+  "ESCE"
+ ],
+ "Philips": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Prysmian": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "RWE": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Renishaw": [
+  "ESCE"
+ ],
+ "Rio Tinto": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Rolls-Royce (mtu power systems)": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Royal BAM Group": [
+  "ESCE",
+  "EXSA",
+  "EXSM"
+ ],
+ "SAP": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "SOL Group": [
+  "ESCE"
+ ],
+ "SSE": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "STMicroelectronics": [
+  "EXSA",
+  "EXV3",
+  "IWDA"
+ ],
+ "SUSS MicroTec": [
+  "ESCE"
+ ],
+ "Schneider Electric": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Siemens": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Siemens Energy": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Siltronic": [
+  "ESCE"
+ ],
+ "Sivers Semiconductors": [
+  "ESCE"
+ ],
+ "Skanska": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Soitec": [
+  "ESCE",
+  "EXSA",
+  "EXSM",
+  "EXV3"
+ ],
+ "Solvay": [
+  "ESCE"
+ ],
+ "Spotify": [
+  "IWDA"
+ ],
+ "Swisscom": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Syensqo": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Telenor": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Teleperformance": [
+  "ESCE",
+  "EXH4",
+  "EXSA",
+  "EXSM"
+ ],
+ "TotalEnergies": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Umicore": [
+  "ESCE",
+  "EXSA"
+ ],
+ "VAT Group": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "Veolia": [
+  "EXH9",
+  "EXSA",
+  "IWDA"
+ ],
+ "Vestas": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Vinci": [
+  "EXSA",
+  "IWDA"
+ ],
+ "Wacker Chemie": [
+  "ESCE"
+ ],
+ "Waertsilae": [
+  "EXH4",
+  "EXSA",
+  "IWDA"
+ ],
+ "X-FAB Silicon Foundries": [
+  "ESCE"
+ ],
+ "ams OSRAM": [
+  "ESCE"
+ ]
+}
