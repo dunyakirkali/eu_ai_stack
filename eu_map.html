@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>European AI stack map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<style>
+  html, body { height: 100%; margin: 0; font: 14px/1.4 system-ui, sans-serif; }
+  #map { position: absolute; inset: 0; }
+  .panel {
+    position: absolute; z-index: 1000; top: 12px; right: 12px; max-width: 270px;
+    background: #fff; color: #111; padding: 10px 12px; border-radius: 8px;
+    box-shadow: 0 1px 6px rgba(0,0,0,.3);
+  }
+  .panel h1 { font-size: 14px; margin: 0 0 6px; }
+  .panel label { display: flex; align-items: center; gap: 6px; cursor: pointer; padding: 1px 0; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; flex: none; border: 1px solid rgba(0,0,0,.4); }
+  .panel small { color: #555; display: block; margin-top: 6px; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="panel">
+  <h1>European AI stack</h1>
+  <div id="legend"></div>
+  <small>Pins sit at company headquarters. Companies in the same city are spread slightly so they stay visible.</small>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script>
+const LAYERS = [
+  { id: "L0", name: "Raw materials",             color: "#8c564b" },
+  { id: "L1", name: "Materials processing",      color: "#e377c2" },
+  { id: "L2", name: "Machine subsystems",        color: "#7f7f7f" },
+  { id: "L3", name: "Chip machines & tools",     color: "#d62728" },
+  { id: "L4", name: "Chip design & making",      color: "#ff7f0e" },
+  { id: "L5", name: "Systems & infrastructure",  color: "#bcbd22" },
+  { id: "L6", name: "Data & talent",             color: "#17becf" },
+  { id: "L7", name: "Frontier labs",             color: "#1f77b4" },
+  { id: "L8", name: "Delivery & applications",   color: "#2ca02c" },
+];
+
+// [layer, company, country, city, lat, lon, role]
+const COMPANIES = [
+  ["L0", "Sibelco", "BE", "Antwerp", 51.22, 4.40, "High-purity quartz and silica"],
+  ["L0", "Boliden", "SE", "Stockholm", 59.33, 18.07, "Copper, zinc and other metals"],
+  ["L0", "Aurubis", "DE", "Hamburg", 53.55, 9.99, "Copper smelting and recycling"],
+  ["L0", "Umicore", "BE", "Brussels", 50.85, 4.35, "Metals recycling, germanium, speciality materials"],
+  ["L0", "LKAB", "SE", "Luleå", 65.58, 22.15, "Iron ore, developing a rare-earth deposit"],
+
+  ["L1", "Siltronic", "DE", "Munich", 48.14, 11.58, "Silicon wafers"],
+  ["L1", "Soitec", "FR", "Bernin", 45.26, 5.87, "Engineered substrates (SOI)"],
+  ["L1", "Wacker Chemie", "DE", "Munich", 48.14, 11.58, "Polysilicon"],
+  ["L1", "Merck KGaA", "DE", "Darmstadt", 49.87, 8.65, "Electronic materials and chemicals"],
+  ["L1", "Air Liquide", "FR", "Paris", 48.86, 2.35, "Industrial and electronic gases"],
+
+  ["L2", "Carl Zeiss SMT", "DE", "Oberkochen", 48.78, 10.10, "Optics for EUV and DUV lithography"],
+  ["L2", "Trumpf", "DE", "Ditzingen", 48.83, 9.07, "Lasers, including the EUV light source"],
+  ["L2", "VDL ETG", "NL", "Eindhoven", 51.44, 5.48, "Precision modules for chip equipment"],
+  ["L2", "Prodrive Technologies", "NL", "Eindhoven", 51.44, 5.48, "Power and control electronics"],
+  ["L2", "Pfeiffer Vacuum", "DE", "Aßlar", 50.59, 8.46, "Vacuum pumps and systems"],
+
+  ["L3", "ASML", "NL", "Veldhoven", 51.42, 5.40, "EUV and DUV lithography"],
+  ["L3", "ASM International", "NL", "Almere", 52.37, 5.22, "Deposition equipment"],
+  ["L3", "Aixtron", "DE", "Herzogenrath", 50.87, 6.09, "Compound-semiconductor deposition"],
+  ["L3", "Siemens EDA", "DE", "Munich (Siemens AG)", 48.14, 11.58, "Chip design software. Owner is German, the unit itself is US-based"],
+  ["L3", "Arm", "UK", "Cambridge", 52.21, 0.12, "Processor IP"],
+
+  ["L4", "Infineon", "DE", "Neubiberg", 48.10, 11.66, "Power chips, automotive and industrial"],
+  ["L4", "STMicroelectronics", "CH", "Geneva", 46.20, 6.14, "Broad chip portfolio, own fabs"],
+  ["L4", "NXP", "NL", "Eindhoven", 51.44, 5.48, "Automotive and embedded chips"],
+  ["L4", "SiPearl", "FR", "Maisons-Laffitte", 48.95, 2.15, "European HPC processor"],
+  ["L4", "Axelera AI", "NL", "Eindhoven", 51.44, 5.48, "AI inference chips"],
+
+  ["L5", "Schneider Electric", "FR", "Rueil-Malmaison", 48.88, 2.19, "Data centre power and cooling"],
+  ["L5", "Siemens Energy", "DE", "Munich", 48.14, 11.58, "Power generation and grid equipment"],
+  ["L5", "Eviden (Atos)", "FR", "Bezons", 48.93, 2.21, "Servers and supercomputers"],
+  ["L5", "Nebius", "NL", "Amsterdam", 52.37, 4.90, "AI-focused cloud"],
+  ["L5", "OVHcloud", "FR", "Roubaix", 50.69, 3.17, "European cloud and hosting"],
+
+  ["L6", "Toloka", "NL", "Amsterdam", 52.37, 4.90, "Human data labelling"],
+  ["L6", "Clickworker", "DE", "Essen", 51.46, 7.01, "Crowd work for data and labelling"],
+  ["L6", "Prolific", "UK", "London", 51.51, -0.13, "Human participant data for research and evals"],
+  ["L6", "LAION", "DE", "Hamburg", 53.55, 9.99, "Open datasets (non-profit)"],
+  ["L6", "Kyutai", "FR", "Paris", 48.86, 2.35, "Open research lab (non-profit)"],
+
+  ["L7", "Mistral AI", "FR", "Paris", 48.86, 2.35, "Frontier and open-weight models"],
+  ["L7", "Google DeepMind", "UK", "London", 51.51, -0.13, "Frontier models (owned by Alphabet)"],
+  ["L7", "Black Forest Labs", "DE", "Freiburg", 47.99, 7.85, "Image generation models"],
+  ["L7", "Aleph Alpha", "DE", "Heidelberg", 49.40, 8.67, "Enterprise and sovereign LLMs"],
+  ["L7", "Stability AI", "UK", "London", 51.51, -0.13, "Open image and media models"],
+
+  ["L8", "SAP", "DE", "Walldorf", 49.30, 8.64, "Enterprise software with embedded AI"],
+  ["L8", "DeepL", "DE", "Cologne", 50.94, 6.96, "AI translation and writing"],
+  ["L8", "Lovable", "SE", "Stockholm", 59.33, 18.07, "AI app builder"],
+  ["L8", "Synthesia", "UK", "London", 51.51, -0.13, "AI video generation"],
+  ["L8", "Helsing", "DE", "Munich", 48.14, 11.58, "Defence AI"],
+];
+
+const map = L.map("map").setView([50.0, 9.0], 5);
+L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+  maxZoom: 12,
+  attribution: "&copy; OpenStreetMap contributors &copy; CARTO",
+}).addTo(map);
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c] || c));
+
+// Spread companies that share a city on a small circle so every pin stays clickable.
+const byPlace = {};
+COMPANIES.forEach(c => (byPlace[c[4] + "," + c[5]] ||= []).push(c));
+
+const groups = {};
+LAYERS.forEach(l => (groups[l.id] = L.layerGroup().addTo(map)));
+
+Object.values(byPlace).forEach(list => {
+  list.forEach((c, i) => {
+    const [layerId, name, country, city, lat, lon, role] = c;
+    const layer = LAYERS.find(l => l.id === layerId);
+    let la = lat, lo = lon;
+    if (list.length > 1) {
+      const angle = (2 * Math.PI * i) / list.length;
+      la += 0.12 * Math.sin(angle);
+      lo += 0.18 * Math.cos(angle);
+    }
+    L.circleMarker([la, lo], {
+      radius: 8, color: "#222", weight: 1, fillColor: layer.color, fillOpacity: 0.9,
+    })
+      .bindPopup(
+        `<strong>${esc(name)}</strong><br>${esc(city)}, ${esc(country)}<br>` +
+        `${esc(role)}<br><em>${esc(layer.id)} · ${esc(layer.name)}</em>`
+      )
+      .bindTooltip(esc(name))
+      .addTo(groups[layerId]);
+  });
+});
+
+const legend = document.getElementById("legend");
+LAYERS.forEach(l => {
+  const label = document.createElement("label");
+  label.innerHTML = `<input type="checkbox" checked><span class="dot" style="background:${l.color}"></span>${l.id} · ${l.name}`;
+  label.querySelector("input").addEventListener("change", e => {
+    if (e.target.checked) groups[l.id].addTo(map);
+    else map.removeLayer(groups[l.id]);
+  });
+  legend.appendChild(label);
+});
+</script>
+</body>
+</html>
