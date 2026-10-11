@@ -165,7 +165,8 @@ flowchart TD
 |------|------------|
 | `ai_stack_tech_tree.md` | Mermaid dependency tree of the AI stack, with EU strengths (green) and bottlenecks (orange) |
 | `eu_companies_by_layer.md` | Five European companies for each layer of the stack |
-| `eu_map.html` | Interactive map of those companies at their headquarters, with a toggle per layer |
+| `eu_companies.geojson` | Map of those companies at their headquarters. GitHub renders it as an interactive map |
+| `eu_map.html` | Same map as a standalone page with a toggle per layer. Open it locally, GitHub shows only the source |
 
 ## Viewing the diagram
 
