@@ -6,15 +6,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     10.17,
-     53.55
+     2.37,
+     51.04
     ]
    },
    "properties": {
-    "title": "Aurubis",
-    "description": "Hamburg, DE. Copper smelting and recycling. L0 · Raw materials",
+    "title": "Aluminium Dunkerque",
+    "description": "Dunkirk, FR. Primary aluminium smelter. L0 · Raw materials. Confidence: medium. Owned by GFG Alliance (Liberty).",
     "marker-color": "#8c564b",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L0"
    }
   },
@@ -23,15 +23,253 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     18.25,
+     4.88,
+     52.34
+    ]
+   },
+   "properties": {
+    "title": "AMG Critical Materials",
+    "description": "Amsterdam, NL. Lithium, vanadium, graphite, critical metals. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.08,
+     51.51
+    ]
+   },
+   "properties": {
+    "title": "Anglo American",
+    "description": "London, UK. Copper and diversified mining. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2026,
+     51.5482
+    ]
+   },
+   "properties": {
+    "title": "Antofagasta plc",
+    "description": "London, UK. Copper mining (Chile). L0 · Raw materials. Confidence: high. Mines are in Chile; HQ London.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.05,
+     53.55
+    ]
+   },
+   "properties": {
+    "title": "Aurubis",
+    "description": "Hamburg, DE. Copper smelting and recycling. L0 · Raw materials. Confidence: medium.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.13,
      59.33
     ]
    },
    "properties": {
     "title": "Boliden",
-    "description": "Stockholm, SE. Copper, zinc and other metals. L0 · Raw materials",
+    "description": "Stockholm, SE. Copper, zinc and other metals. L0 · Raw materials. Confidence: medium.",
     "marker-color": "#8c564b",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.05,
+     50.26
+    ]
+   },
+   "properties": {
+    "title": "Cornish Lithium",
+    "description": "Truro, UK. Lithium from geothermal brine and hard rock. L0 · Raw materials. Confidence: medium. Pre-production.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.69,
+     59.91
+    ]
+   },
+   "properties": {
+    "title": "Elkem",
+    "description": "Oslo, NO. Silicon metal and quartz-based silicon materials. L0 · Raw materials. Confidence: high. Majority owned by China National Bluestar.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.79,
+     58.97
+    ]
+   },
+   "properties": {
+    "title": "Equinor",
+    "description": "Stavanger, NO. Natural gas and oil supplier. L0 · Raw materials. Confidence: high. State majority.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3,
+     48.87
+    ]
+   },
+   "properties": {
+    "title": "Eramet",
+    "description": "Paris, FR. Manganese, nickel and lithium mining. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.14,
+     51.5
+    ]
+   },
+   "properties": {
+    "title": "Ferroglobe",
+    "description": "London, UK. Silicon metal and ferroalloys, quartz. L0 · Raw materials. Confidence: high. Nasdaq-listed; plants in France, Spain, Norway.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.53,
+     47.2
+    ]
+   },
+   "properties": {
+    "title": "Glencore",
+    "description": "Baar, CH. Copper and cobalt mining and trading. L0 · Raw materials. Confidence: high. Jersey-incorporated, operational HQ Baar.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.34,
+     48.88
+    ]
+   },
+   "properties": {
+    "title": "Imerys",
+    "description": "Paris, FR. Industrial minerals, quartz and graphite. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.13,
+     63.84
+    ]
+   },
+   "properties": {
+    "title": "Keliber",
+    "description": "Kokkola, FI. Lithium hydroxide from spodumene. L0 · Raw materials. Confidence: medium. Majority owned by Sibanye-Stillwater, minority Finnish Minerals Group.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.2,
+     51.4
+    ]
+   },
+   "properties": {
+    "title": "KGHM Polska Miedz",
+    "description": "Lubin, PL. Copper and silver mining and smelting. L0 · Raw materials. Confidence: high. State-controlled.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56,
+     51.32
+    ]
+   },
+   "properties": {
+    "title": "Linde plc",
+    "description": "Woking, UK. Helium, neon and noble gases. L0 · Raw materials. Confidence: low. Registered in Ireland, executive office Woking per company; NYSE-listed; HQ ambiguous.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
     "layer": "L0"
    }
   },
@@ -46,9 +284,179 @@
    },
    "properties": {
     "title": "LKAB",
-    "description": "Luleå, SE. Iron ore, developing a rare-earth deposit. L0 · Raw materials",
+    "description": "Luleå, SE. Iron ore, developing a rare-earth deposit. L0 · Raw materials. Confidence: medium.",
     "marker-color": "#8c564b",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5,
+     50.14
+    ]
+   },
+   "properties": {
+    "title": "Messer",
+    "description": "Bad Soden, DE. Helium, neon and rare gases supply. L0 · Raw materials. Confidence: medium.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.8,
+     38.05
+    ]
+   },
+   "properties": {
+    "title": "Metlen Energy & Metals",
+    "description": "Athens, GR. Alumina, aluminium and new gallium production. L0 · Raw materials. Confidence: medium. Parent plc registered/listed in London since 2025; operational HQ Athens (sources differ). Gallium plant under construction.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.73,
+     59.91
+    ]
+   },
+   "properties": {
+    "title": "Nordic Mining",
+    "description": "Oslo, NO. Rutile and rare earth deposits (Engebo, Fen). L0 · Raw materials. Confidence: medium. Pre-production.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.81,
+     59.91
+    ]
+   },
+   "properties": {
+    "title": "Norsk Hydro",
+    "description": "Oslo, NO. Aluminium smelting and primary metal. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.6,
+     47.37
+    ]
+   },
+   "properties": {
+    "title": "Nyrstar",
+    "description": "Zurich, CH. Zinc and germanium/gallium by-product metals. L0 · Raw materials. Confidence: medium. Owned by Trafigura; smelters in Belgium, Netherlands, Australia.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29,
+     48.8
+    ]
+   },
+   "properties": {
+    "title": "Orano",
+    "description": "Chatillon, FR. Uranium mining and nuclear fuel cycle. L0 · Raw materials. Confidence: high. State-owned.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.81,
+     50.91
+    ]
+   },
+   "properties": {
+    "title": "Quarzwerke",
+    "description": "Frechen, DE. Quartz sands and silica minerals. L0 · Raw materials. Confidence: medium.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.27,
+     59.28
+    ]
+   },
+   "properties": {
+    "title": "Rare Earths Norway",
+    "description": "Ulefoss, NO. Fen rare earth deposit developer. L0 · Raw materials. Confidence: medium. Pre-production.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.12,
+     51.53
+    ]
+   },
+   "properties": {
+    "title": "Rio Tinto",
+    "description": "London, UK. Copper, aluminium and lithium mining. L0 · Raw materials. Confidence: medium. Dual-listed with Australia; plc HQ London.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1309,
+     51.441
+    ]
+   },
+   "properties": {
+    "title": "Savannah Resources",
+    "description": "London, UK. Barroso lithium project, Portugal. L0 · Raw materials. Confidence: medium. Pre-production; FID expected 2027.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
     "layer": "L0"
    }
   },
@@ -63,9 +471,9 @@
    },
    "properties": {
     "title": "Sibelco",
-    "description": "Antwerp, BE. High-purity quartz and silica. L0 · Raw materials",
+    "description": "Antwerp, BE. High-purity quartz and silica. L0 · Raw materials. Confidence: medium.",
     "marker-color": "#8c564b",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L0"
    }
   },
@@ -74,15 +482,83 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.35,
+     2.3,
+     48.89
+    ]
+   },
+   "properties": {
+    "title": "Suez",
+    "description": "Paris, FR. Ultra-pure water and water treatment. L0 · Raw materials. Confidence: medium. Owned by Veolia, Meridiam and others since 2022.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.0,
+     64.05
+    ]
+   },
+   "properties": {
+    "title": "Terrafame",
+    "description": "Sotkamo, FI. Nickel and cobalt sulphate for batteries. L0 · Raw materials. Confidence: medium. State-owned (Finnish Minerals Group majority).",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.25,
+     48.9
+    ]
+   },
+   "properties": {
+    "title": "TotalEnergies",
+    "description": "Courbevoie, FR. Oil, gas and LNG supply. L0 · Raw materials. Confidence: high.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.07,
+     51.46
+    ]
+   },
+   "properties": {
+    "title": "Trimet Aluminium",
+    "description": "Essen, DE. Primary aluminium smelting. L0 · Raw materials. Confidence: medium.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.41,
      50.85
     ]
    },
    "properties": {
     "title": "Umicore",
-    "description": "Brussels, BE. Metals recycling, germanium, speciality materials. L0 · Raw materials",
+    "description": "Brussels, BE. Metals recycling, germanium, speciality materials. L0 · Raw materials. Confidence: medium.",
     "marker-color": "#8c564b",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L0"
    }
   },
@@ -91,15 +567,440 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.53,
+     -0.58,
+     51.54
+    ]
+   },
+   "properties": {
+    "title": "Urenco",
+    "description": "Stoke Poges, UK. Uranium enrichment for nuclear fuel. L0 · Raw materials. Confidence: high. Owned by UK, Dutch governments and German utilities.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3,
+     48.85
+    ]
+   },
+   "properties": {
+    "title": "Veolia",
+    "description": "Paris, FR. Ultra-pure water systems for fabs. L0 · Raw materials. Confidence: medium. Veolia Water Technologies unit.",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.28,
+     46.85
+    ]
+   },
+   "properties": {
+    "title": "Wolfram Bergbau und Huetten",
+    "description": "St. Martin im Sulmtal, AT. Tungsten mining and processing. L0 · Raw materials. Confidence: medium. Owned by Sandvik (Sweden).",
+    "marker-color": "#8c564b",
+    "marker-size": "small",
+    "layer": "L0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.41,
      48.86
     ]
    },
    "properties": {
     "title": "Air Liquide",
-    "description": "Paris, FR. Industrial and electronic gases. L1 · Materials processing",
+    "description": "Paris, FR. Industrial and electronic gases. L1 · Materials processing. Confidence: medium.",
     "marker-color": "#e377c2",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.88,
+     52.58
+    ]
+   },
+   "properties": {
+    "title": "Allresist",
+    "description": "Strausberg, DE. Photoresists and e-beam resists. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.25,
+     48.92
+    ]
+   },
+   "properties": {
+    "title": "Arkema",
+    "description": "Colombes, FR. Specialty chemicals and electronic materials. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.09,
+     47.38
+    ]
+   },
+   "properties": {
+    "title": "AT&S",
+    "description": "Leoben, AT. IC substrates and advanced PCBs. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.46,
+     52.52
+    ]
+   },
+   "properties": {
+    "title": "Atotech",
+    "description": "Berlin, DE. Plating chemistry for chip packages and PCBs. L1 · Materials processing. Confidence: medium. Owned by MKS Instruments (US).",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.43,
+     49.48
+    ]
+   },
+   "properties": {
+    "title": "BASF",
+    "description": "Ludwigshafen, DE. Electronic chemicals and battery materials. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.84,
+     45.76
+    ]
+   },
+   "properties": {
+    "title": "Carester (Caremag)",
+    "description": "Lyon, FR. Rare earth refining and magnet recycling, Lacq. L1 · Materials processing. Confidence: medium. Plant under construction, start-up targeted end 2026.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.02,
+     49.63
+    ]
+   },
+   "properties": {
+    "title": "Ceratizit",
+    "description": "Mamer, LU. Tungsten carbide hard materials. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.39,
+     48.87
+    ]
+   },
+   "properties": {
+    "title": "Constellium",
+    "description": "Paris, FR. Rolled and extruded aluminium products. L1 · Materials processing. Confidence: medium. NYSE-listed, Dutch-incorporated.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.06,
+     48.07
+    ]
+   },
+   "properties": {
+    "title": "DELO Industrial Adhesives",
+    "description": "Windach, DE. Adhesives for semiconductor packaging. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.01,
+     51.45
+    ]
+   },
+   "properties": {
+    "title": "Evonik",
+    "description": "Essen, DE. Silanes, specialty chemicals for semiconductors. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.34,
+     50.92
+    ]
+   },
+   "properties": {
+    "title": "Freiberger Compound Materials",
+    "description": "Freiberg, DE. GaAs and compound semiconductor substrates. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.64,
+     48.14
+    ]
+   },
+   "properties": {
+    "title": "H.C. Starck Solutions",
+    "description": "Munich, DE. Tungsten and refractory metal powders. L1 · Materials processing. Confidence: low. Owned by Masan High-Tech Materials; verify current name.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.77,
+     51.22
+    ]
+   },
+   "properties": {
+    "title": "Henkel",
+    "description": "Duesseldorf, DE. Semiconductor packaging adhesives and materials. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.98,
+     50.13
+    ]
+   },
+   "properties": {
+    "title": "Heraeus",
+    "description": "Hanau, DE. Quartz glass, precious metals, bonding wire. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.83,
+     52.45
+    ]
+   },
+   "properties": {
+    "title": "HyProMag",
+    "description": "Birmingham, UK. Magnet-to-magnet recycling (Tyseley). L1 · Materials processing. Confidence: medium. Owned by Mkango/CoTec via Maginito.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18,
+     51.48
+    ]
+   },
+   "properties": {
+    "title": "IQE",
+    "description": "Cardiff, UK. Compound semiconductor epitaxial wafers. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9,
+     52.48
+    ]
+   },
+   "properties": {
+    "title": "Irresistible Materials",
+    "description": "Birmingham, UK. EUV photoresist developer. L1 · Materials processing. Confidence: medium. University of Birmingham spin-out; small, pre-scale.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.12,
+     51.51
+    ]
+   },
+   "properties": {
+    "title": "Johnson Matthey",
+    "description": "London, UK. Platinum group metals and chemicals. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76,
+     50.88
+    ]
+   },
+   "properties": {
+    "title": "JSR Micro NV",
+    "description": "Leuven, BE. Photoresists produced in Belgium. L1 · Materials processing. Confidence: medium. Owned by JSR Corp (Japan).",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.04,
+     52.28
+    ]
+   },
+   "properties": {
+    "title": "KME",
+    "description": "Osnabrueck, DE. Copper and copper-alloy products. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9,
+     53.28
+    ]
+   },
+   "properties": {
+    "title": "Less Common Metals",
+    "description": "Ellesmere Port, UK. Rare earth metals and magnet alloys. L1 · Materials processing. Confidence: medium. Acquisition by USA Rare Earth reported 2025; ownership may now be US.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.51,
+     46.06
+    ]
+   },
+   "properties": {
+    "title": "Magneti Ljubljana",
+    "description": "Ljubljana, SI. Permanent magnets and magnetic systems. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
     "layer": "L1"
    }
   },
@@ -114,9 +1015,9 @@
    },
    "properties": {
     "title": "Merck KGaA",
-    "description": "Darmstadt, DE. Electronic materials and chemicals. L1 · Materials processing",
+    "description": "Darmstadt, DE. Electronic materials and chemicals. L1 · Materials processing. Confidence: medium.",
     "marker-color": "#e377c2",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L1"
    }
   },
@@ -125,15 +1026,270 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     11.76,
-     48.14
+     4.86,
+     51.32
+    ]
+   },
+   "properties": {
+    "title": "Metallo Group",
+    "description": "Beerse, BE. Copper, tin and e-waste metals recycling. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.93,
+     46.99
+    ]
+   },
+   "properties": {
+    "title": "Metalor Technologies",
+    "description": "Neuchatel, CH. Precious metals, bonding and sputtering materials. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.52,
+     52.43
+    ]
+   },
+   "properties": {
+    "title": "micro resist technology",
+    "description": "Berlin, DE. Photoresists for lithography and nanoimprint. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.05,
+     48.4
+    ]
+   },
+   "properties": {
+    "title": "MicroChemicals",
+    "description": "Ulm, DE. Photoresists and process chemicals. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.77,
+     59.4
+    ]
+   },
+   "properties": {
+    "title": "Neo Performance Materials Silmet",
+    "description": "Sillamae, EE. Rare earth separation. L1 · Materials processing. Confidence: medium. Parent Neo Performance Materials is Toronto-based.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.8,
+     61.48
+    ]
+   },
+   "properties": {
+    "title": "Neorem Magnets",
+    "description": "Pori, FI. Sintered NdFeB magnets. L1 · Materials processing. Confidence: low. Ownership and plant status not verified.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64,
+     40.42
+    ]
+   },
+   "properties": {
+    "title": "Nippon Gases Europe",
+    "description": "Madrid, ES. Industrial and electronic gases. L1 · Materials processing. Confidence: medium. Owned by Taiyo Nippon Sanso (Japan).",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.04,
+     60.3
+    ]
+   },
+   "properties": {
+    "title": "Okmetic",
+    "description": "Vantaa, FI. Silicon wafers for sensors and power. L1 · Materials processing. Confidence: high. Owned by NSIG (China) since 2016.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.72,
+     47.49
+    ]
+   },
+   "properties": {
+    "title": "Plansee Group",
+    "description": "Reutte, AT. Tungsten and molybdenum materials. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.64,
+     59.91
+    ]
+   },
+   "properties": {
+    "title": "REC Silicon",
+    "description": "Lysaker, NO. Polysilicon and silane gas. L1 · Materials processing. Confidence: medium. Main plants in US; owned by Hanwha.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.65,
+     59.14
+    ]
+   },
+   "properties": {
+    "title": "REEtec",
+    "description": "Porsgrunn, NO. Rare earth oxide separation (NdPr). L1 · Materials processing. Confidence: medium. LKAB largest owner; plant ramp-up status unconfirmed.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.52,
+     51.61
+    ]
+   },
+   "properties": {
+    "title": "Remondis",
+    "description": "Luenen, DE. Recycling of electronics and metals. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.78,
+     45.19
+    ]
+   },
+   "properties": {
+    "title": "ROSI Solar",
+    "description": "Grenoble, FR. Silicon and metals recycling from PV. L1 · Materials processing. Confidence: medium. Plant status unverified.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.27,
+     50.0
+    ]
+   },
+   "properties": {
+    "title": "SCHOTT",
+    "description": "Mainz, DE. Specialty glass and glass wafers. L1 · Materials processing. Confidence: high. Foundation-owned.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.08,
+     49.45
+    ]
+   },
+   "properties": {
+    "title": "SiCrystal",
+    "description": "Nuremberg, DE. Silicon carbide substrates. L1 · Materials processing. Confidence: medium. Owned by ROHM (Japan).",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5174,
+     48.1782
     ]
    },
    "properties": {
     "title": "Siltronic",
-    "description": "Munich, DE. Silicon wafers. L1 · Materials processing",
+    "description": "Munich, DE. Silicon wafers. L1 · Materials processing. Confidence: medium.",
     "marker-color": "#e377c2",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L1"
    }
   },
@@ -148,9 +1304,9 @@
    },
    "properties": {
     "title": "Soitec",
-    "description": "Bernin, FR. Engineered substrates (SOI). L1 · Materials processing",
+    "description": "Bernin, FR. Engineered substrates (SOI). L1 · Materials processing. Confidence: medium.",
     "marker-color": "#e377c2",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L1"
    }
   },
@@ -159,16 +1315,237 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     11.6356,
-     48.2541
+     9.27,
+     45.58
+    ]
+   },
+   "properties": {
+    "title": "SOL Group",
+    "description": "Monza, IT. Industrial and specialty gases. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.2874,
+     50.8882
+    ]
+   },
+   "properties": {
+    "title": "Solvay",
+    "description": "Brussels, BE. Rare earth separation (La Rochelle), soda ash. L1 · Materials processing. Confidence: high.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.59,
+     51.09
+    ]
+   },
+   "properties": {
+    "title": "Speira",
+    "description": "Grevenbroich, DE. Aluminium rolling and recycling. L1 · Materials processing. Confidence: medium. Owned by Strategic Equity Capital.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.97,
+     57.71
+    ]
+   },
+   "properties": {
+    "title": "Stena Recycling",
+    "description": "Gothenburg, SE. Electronics scrap and metals recycling. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.62,
+     58.41
+    ]
+   },
+   "properties": {
+    "title": "SweGaN",
+    "description": "Linkoping, SE. GaN-on-SiC epitaxial wafers. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.3591,
+     50.781
+    ]
+   },
+   "properties": {
+    "title": "Syensqo",
+    "description": "Brussels, BE. Fluoropolymers and electronic specialty chemicals. L1 · Materials processing. Confidence: high. Spun off from Solvay 2023.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.8574,
+     50.1682
+    ]
+   },
+   "properties": {
+    "title": "Vacuumschmelze",
+    "description": "Hanau, DE. Rare earth permanent magnets. L1 · Materials processing. Confidence: high. Owned by Apollo funds.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5891,
+     48.071
     ]
    },
    "properties": {
     "title": "Wacker Chemie",
-    "description": "Munich, DE. Polysilicon. L1 · Materials processing",
+    "description": "Munich, DE. Polysilicon. L1 · Materials processing. Confidence: medium.",
     "marker-color": "#e377c2",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.63,
+     51.96
+    ]
+   },
+   "properties": {
+    "title": "Westfalen",
+    "description": "Muenster, DE. Industrial and specialty gases. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.9274,
+     48.4382
+    ]
+   },
+   "properties": {
+    "title": "Wieland-Werke",
+    "description": "Ulm, DE. Copper alloys for connectors and lead frames. L1 · Materials processing. Confidence: medium.",
+    "marker-color": "#e377c2",
+    "marker-size": "small",
+    "layer": "L1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.653,
+     48.2035
+    ]
+   },
+   "properties": {
+    "title": "attocube systems",
+    "description": "Munich, DE. Nanopositioners and interferometers. L2 · Machine subsystems. Confidence: medium. Owned by Bruker (US).",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.45,
+     52.08
+    ]
+   },
+   "properties": {
+    "title": "Bronkhorst",
+    "description": "Ruurlo, NL. Mass flow controllers for process gases. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.8,
+     47.63
+    ]
+   },
+   "properties": {
+    "title": "Busch Vacuum Solutions",
+    "description": "Maulburg, DE. Vacuum pumps; owner of Pfeiffer Vacuum. L2 · Machine subsystems. Confidence: medium. Family-owned; Pfeiffer Vacuum (existing entry) is now a Busch subsidiary.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0074,
+     59.3682
+    ]
+   },
+   "properties": {
+    "title": "Camfil",
+    "description": "Stockholm, SE. Cleanroom air filtration. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
    }
   },
   {
@@ -182,9 +1559,349 @@
    },
    "properties": {
     "title": "Carl Zeiss SMT",
-    "description": "Oberkochen, DE. Optics for EUV and DUV lithography. L2 · Machine subsystems",
+    "description": "Oberkochen, DE. Optics for EUV and DUV lithography. L2 · Machine subsystems. Confidence: medium.",
     "marker-color": "#7f7f7f",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.28,
+     46.89
+    ]
+   },
+   "properties": {
+    "title": "COMET Group",
+    "description": "Flamatt, CH. RF generators and matching networks for plasma. L2 · Machine subsystems. Confidence: high.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.89,
+     52.22
+    ]
+   },
+   "properties": {
+    "title": "Demcon",
+    "description": "Enschede, NL. Mechatronic systems for chip equipment. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.19,
+     51.11
+    ]
+   },
+   "properties": {
+    "title": "Edwards Vacuum",
+    "description": "Crawley, UK. Dry vacuum pumps, abatement for fabs. L2 · Machine subsystems. Confidence: high. Owned by Atlas Copco (Sweden).",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.61,
+     46.94
+    ]
+   },
+   "properties": {
+    "title": "ETEL",
+    "description": "Motiers, CH. Direct-drive motors and motion controllers. L2 · Machine subsystems. Confidence: medium. Part of HEIDENHAIN (Germany).",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0,
+     59.4
+    ]
+   },
+   "properties": {
+    "title": "Excillum",
+    "description": "Kista, SE. Liquid-metal-jet X-ray sources for metrology. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.18,
+     48.78
+    ]
+   },
+   "properties": {
+    "title": "Exyte",
+    "description": "Stuttgart, DE. Cleanroom and semiconductor fab engineering. L2 · Machine subsystems. Confidence: medium. Owned by Ardian-led investors.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91,
+     50.93
+    ]
+   },
+   "properties": {
+    "title": "Gooch & Housego",
+    "description": "Ilminster, UK. Photonic components, acousto-optics. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.59,
+     47.96
+    ]
+   },
+   "properties": {
+    "title": "HEIDENHAIN",
+    "description": "Traunreut, DE. Optical encoders for wafer stages. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.5,
+     51.99
+    ]
+   },
+   "properties": {
+    "title": "Hittech Group",
+    "description": "Bergschenhoek, NL. Precision frames and modules for chip tools. L2 · Machine subsystems. Confidence: low.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.59,
+     50.93
+    ]
+   },
+   "properties": {
+    "title": "Jenoptik",
+    "description": "Jena, DE. Optics and laser modules for lithography. L2 · Machine subsystems. Confidence: high.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.33,
+     48.2
+    ]
+   },
+   "properties": {
+    "title": "LASER COMPONENTS",
+    "description": "Olching, DE. Laser optics and detectors. L2 · Machine subsystems. Confidence: low.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.71,
+     49.57
+    ]
+   },
+   "properties": {
+    "title": "LAUDA",
+    "description": "Lauda-Koenigshofen, DE. Process chillers and thermal control. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.37,
+     50.97
+    ]
+   },
+   "properties": {
+    "title": "Layertec",
+    "description": "Mellingen, DE. Precision laser optics and coatings. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.02,
+     50.94
+    ]
+   },
+   "properties": {
+    "title": "Leybold",
+    "description": "Cologne, DE. Vacuum pumps and systems. L2 · Machine subsystems. Confidence: medium. Owned by Atlas Copco (Sweden).",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.28,
+     54.69
+    ]
+   },
+   "properties": {
+    "title": "Light Conversion",
+    "description": "Vilnius, LT. Ultrafast lasers. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4,
+     48.73
+    ]
+   },
+   "properties": {
+    "title": "Lumibird",
+    "description": "Lannion, FR. Solid-state and fibre lasers. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.54,
+     51.44
+    ]
+   },
+   "properties": {
+    "title": "MI-Partners",
+    "description": "Eindhoven, NL. Mechatronics development for lithography. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.43,
+     48.55
+    ]
+   },
+   "properties": {
+    "title": "Micro-Epsilon",
+    "description": "Ortenburg, DE. Precision displacement sensors. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.49,
+     51.51
+    ]
+   },
+   "properties": {
+    "title": "Neways Electronics",
+    "description": "Son, NL. Electronics modules for chip equipment. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4174,
+     51.4782
+    ]
+   },
+   "properties": {
+    "title": "NTS Group",
+    "description": "Eindhoven, NL. Mechatronic modules for ASML and others. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
     "layer": "L2"
    }
   },
@@ -199,9 +1916,9 @@
    },
    "properties": {
     "title": "Pfeiffer Vacuum",
-    "description": "Aßlar, DE. Vacuum pumps and systems. L2 · Machine subsystems",
+    "description": "Aßlar, DE. Vacuum pumps and systems. L2 · Machine subsystems. Confidence: medium. Owned by Busch.",
     "marker-color": "#7f7f7f",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L2"
    }
   },
@@ -210,15 +1927,134 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.48,
-     51.56
+     8.4,
+     49.01
+    ]
+   },
+   "properties": {
+    "title": "Physik Instrumente (PI)",
+    "description": "Karlsruhe, DE. Piezo and precision motion stages. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4891,
+     51.371
     ]
    },
    "properties": {
     "title": "Prodrive Technologies",
-    "description": "Eindhoven, NL. Power and control electronics. L2 · Machine subsystems",
+    "description": "Eindhoven, NL. Power and control electronics. L2 · Machine subsystems. Confidence: medium.",
     "marker-color": "#7f7f7f",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.35,
+     51.64
+    ]
+   },
+   "properties": {
+    "title": "Renishaw",
+    "description": "Wotton-under-Edge, UK. Encoders and position metrology. L2 · Machine subsystems. Confidence: high.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.553,
+     51.5035
+    ]
+   },
+   "properties": {
+    "title": "Settels Savenije",
+    "description": "Eindhoven, NL. Cleanroom modules and precision parts. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3479,
+     51.4244
+    ]
+   },
+   "properties": {
+    "title": "Sioux Technologies",
+    "description": "Eindhoven, NL. Embedded software and mechatronics for tools. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.21,
+     53.14
+    ]
+   },
+   "properties": {
+    "title": "SmarAct",
+    "description": "Oldenburg, DE. Nanopositioning and piezo stages. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.78,
+     47.2
+    ]
+   },
+   "properties": {
+    "title": "Stäubli",
+    "description": "Pfaeffikon, CH. Cleanroom robots. L2 · Machine subsystems. Confidence: low. Robotics division is one of several.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.43,
+     48.12
+    ]
+   },
+   "properties": {
+    "title": "TOPTICA Photonics",
+    "description": "Graefelfing, DE. Diode and ultrafast lasers. L2 · Machine subsystems. Confidence: medium.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
     "layer": "L2"
    }
   },
@@ -233,9 +2069,9 @@
    },
    "properties": {
     "title": "Trumpf",
-    "description": "Ditzingen, DE. Lasers, including the EUV light source. L2 · Machine subsystems",
+    "description": "Ditzingen, DE. Lasers, including the EUV light source. L2 · Machine subsystems. Confidence: medium.",
     "marker-color": "#7f7f7f",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L2"
    }
   },
@@ -244,50 +2080,50 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.66,
-     51.44
+     7.91,
+     47.99
+    ]
+   },
+   "properties": {
+    "title": "TRUMPF Hüttinger",
+    "description": "Freiburg, DE. RF/plasma power supplies. L2 · Machine subsystems. Confidence: medium. Part of TRUMPF (existing entry).",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.49,
+     47.2
+    ]
+   },
+   "properties": {
+    "title": "VAT Group",
+    "description": "Haag, CH. Vacuum valves for chip equipment. L2 · Machine subsystems. Confidence: high.",
+    "marker-color": "#7f7f7f",
+    "marker-size": "small",
+    "layer": "L2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.604,
+     51.3874
     ]
    },
    "properties": {
     "title": "VDL ETG",
-    "description": "Eindhoven, NL. Precision modules for chip equipment. L2 · Machine subsystems",
+    "description": "Eindhoven, NL. Precision modules for chip equipment. L2 · Machine subsystems. Confidence: medium.",
     "marker-color": "#7f7f7f",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L2"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.22,
-     52.37
-    ]
-   },
-   "properties": {
-    "title": "ASM International",
-    "description": "Almere, NL. Deposition equipment. L3 · Chip machines & tools",
-    "marker-color": "#d62728",
-    "marker-size": "medium",
-    "layer": "L3"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     5.4,
-     51.42
-    ]
-   },
-   "properties": {
-    "title": "ASML",
-    "description": "Veldhoven, NL. EUV and DUV lithography. L3 · Chip machines & tools",
-    "marker-color": "#d62728",
-    "marker-size": "medium",
-    "layer": "L3"
    }
   },
   {
@@ -301,9 +2137,43 @@
    },
    "properties": {
     "title": "Aixtron",
-    "description": "Herzogenrath, DE. Compound-semiconductor deposition. L3 · Chip machines & tools",
+    "description": "Herzogenrath, DE. Compound-semiconductor deposition. L3 · Chip machines and design tools. Confidence: medium.",
     "marker-color": "#d62728",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.07,
+     51.51
+    ]
+   },
+   "properties": {
+    "title": "Alphawave Semi",
+    "description": "London, UK. High-speed connectivity IP. L3 · Chip machines and design tools. Confidence: high. Acquired by Qualcomm (US), completed Dec 2025.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.94,
+     43.61
+    ]
+   },
+   "properties": {
+    "title": "Annealsys",
+    "description": "Montpellier, FR. RTP and CVD equipment. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
     "layer": "L3"
    }
   },
@@ -318,9 +2188,9 @@
    },
    "properties": {
     "title": "Arm",
-    "description": "Cambridge, UK. Processor IP. L3 · Chip machines & tools",
+    "description": "Cambridge, UK. Processor IP. L3 · Chip machines and design tools. Confidence: medium. Majority-owned by SoftBank.",
     "marker-color": "#d62728",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L3"
    }
   },
@@ -329,15 +2199,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     11.4344,
-     48.2105
+     5.22,
+     52.37
     ]
    },
    "properties": {
-    "title": "Siemens EDA",
-    "description": "Munich (Siemens AG), DE. Chip design software. Owner is German, the unit itself is US-based. L3 · Chip machines & tools",
+    "title": "ASM International",
+    "description": "Almere, NL. Deposition equipment. L3 · Chip machines and design tools. Confidence: medium.",
     "marker-color": "#d62728",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L3"
    }
   },
@@ -346,15 +2216,1001 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.48,
-     51.32
+     5.4,
+     51.42
+    ]
+   },
+   "properties": {
+    "title": "ASML",
+    "description": "Veldhoven, NL. EUV and DUV lithography. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.12,
+     51.95
+    ]
+   },
+   "properties": {
+    "title": "BE Semiconductor Industries (Besi)",
+    "description": "Duiven, NL. Hybrid bonding and packaging equipment. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.72,
+     60.21
+    ]
+   },
+   "properties": {
+    "title": "Beneq",
+    "description": "Espoo, FI. ALD equipment. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.71,
+     45.19
+    ]
+   },
+   "properties": {
+    "title": "CEA-Leti",
+    "description": "Grenoble, FR. Chip process R&D and pilot lines. L3 · Chip machines and design tools. Confidence: medium. Public research institute.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.78,
+     48.41
+    ]
+   },
+   "properties": {
+    "title": "centrotherm international",
+    "description": "Blaubeuren, DE. Thermal processing and furnaces. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.4479,
+     48.1244
+    ]
+   },
+   "properties": {
+    "title": "Codasip",
+    "description": "Munich, DE. RISC-V cores and design tools. L3 · Chip machines and design tools. Confidence: medium. Sale process launched July 2025; outcome unconfirmed.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.8174,
+     43.6482
+    ]
+   },
+   "properties": {
+    "title": "Cortus",
+    "description": "Montpellier, FR. RISC-V processor IP. L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.6574,
+     45.2282
+    ]
+   },
+   "properties": {
+    "title": "Defacto Technologies",
+    "description": "Grenoble, FR. RTL signoff EDA software. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.78,
+     45.21
+    ]
+   },
+   "properties": {
+    "title": "Dolphin Design",
+    "description": "Meylan, FR. Low-power chip IP and design services. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.36,
+     48.13
+    ]
+   },
+   "properties": {
+    "title": "ERS electronic",
+    "description": "Germering, DE. Thermal wafer chucks and probers. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.21,
+     47.53
+    ]
+   },
+   "properties": {
+    "title": "Eulitha",
+    "description": "Villigen, CH. Photonics lithography (PHABLE). L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.43,
+     48.37
+    ]
+   },
+   "properties": {
+    "title": "EV Group",
+    "description": "St. Florian am Inn, AT. Wafer bonding and lithography. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.46,
+     47.07
+    ]
+   },
+   "properties": {
+    "title": "Evatec",
+    "description": "Truebbach, CH. Thin-film deposition tools. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.03,
+     53.01
+    ]
+   },
+   "properties": {
+    "title": "ficonTEC",
+    "description": "Achim, DE. Photonics assembly and test automation. L3 · Chip machines and design tools. Confidence: low. Ownership unverified.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.73,
+     49.4
+    ]
+   },
+   "properties": {
+    "title": "Heidelberg Instruments",
+    "description": "Heidelberg, DE. Maskless direct-write lithography. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.45,
+     51.71
+    ]
+   },
+   "properties": {
+    "title": "Imagination Technologies",
+    "description": "Kings Langley, UK. GPU and AI processor IP. L3 · Chip machines and design tools. Confidence: medium. Owned by Canyon Bridge (China-linked).",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.6374,
+     50.9182
+    ]
+   },
+   "properties": {
+    "title": "imec",
+    "description": "Leuven, BE. Chip process R&D and pilot lines. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.5,
+     47.0
+    ]
+   },
+   "properties": {
+    "title": "INFICON",
+    "description": "Bad Ragaz, CH. Gas analysis and process control for fabs. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3374,
+     52.5582
+    ]
+   },
+   "properties": {
+    "title": "LayTec",
+    "description": "Berlin, DE. In-situ epitaxy metrology. L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.05,
+     43.62
+    ]
+   },
+   "properties": {
+    "title": "Menta",
+    "description": "Sophia Antipolis, FR. Embedded FPGA IP. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.07,
+     59.44
+    ]
+   },
+   "properties": {
+    "title": "Mycronic",
+    "description": "Taby, SE. Photomask writers, assembly equipment. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.48,
+     51.92
+    ]
+   },
+   "properties": {
+    "title": "Nearfield Instruments",
+    "description": "Rotterdam, NL. Scanning-probe metrology for chips. L3 · Chip machines and design tools. Confidence: high. TNO spin-off.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.25,
+     55.7
+    ]
+   },
+   "properties": {
+    "title": "Obducat",
+    "description": "Lund, SE. Nanoimprint lithography. L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23,
+     41.39
+    ]
+   },
+   "properties": {
+    "title": "Openchip & Software Technologies",
+    "description": "Barcelona, ES. RISC-V accelerator design. L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28,
+     51.67
+    ]
+   },
+   "properties": {
+    "title": "Oxford Instruments",
+    "description": "Abingdon, UK. Plasma etch and deposition tools. L3 · Chip machines and design tools. Confidence: medium. Plasma business only; other units not chip tools.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.5974,
+     60.2482
+    ]
+   },
+   "properties": {
+    "title": "Picosun",
+    "description": "Espoo, FI. ALD equipment. L3 · Chip machines and design tools. Confidence: medium. Owned by Applied Materials (US) since 2023.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2,
+     48.51
+    ]
+   },
+   "properties": {
+    "title": "Plassys-Bestek",
+    "description": "Marolles-en-Hurepoix, FR. MBE and e-beam evaporation. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.64,
+     50.62
+    ]
+   },
+   "properties": {
+    "title": "PVA TePla",
+    "description": "Wettenberg, DE. Crystal growing, plasma and vacuum systems. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8,
+     51.05
+    ]
+   },
+   "properties": {
+    "title": "Racyics",
+    "description": "Dresden, DE. Mixed-signal chip design house and IP. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.47,
+     51.51
+    ]
+   },
+   "properties": {
+    "title": "Raith",
+    "description": "Dortmund, DE. Electron-beam lithography. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.2,
+     48.0
+    ]
+   },
+   "properties": {
+    "title": "RENA Technologies",
+    "description": "Guetenbach, DE. Wet processing equipment. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.27,
+     48.93
+    ]
+   },
+   "properties": {
+    "title": "Riber",
+    "description": "Bezons, FR. MBE epitaxy systems. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.704,
+     48.0874
+    ]
+   },
+   "properties": {
+    "title": "Rohde & Schwarz",
+    "description": "Munich, DE. RF and chip test and measurement. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1074,
+     41.4282
+    ]
+   },
+   "properties": {
+    "title": "Semidynamics",
+    "description": "Barcelona, ES. RISC-V cores and tensor IP. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.04,
+     47.5
+    ]
+   },
+   "properties": {
+    "title": "Semilab",
+    "description": "Budapest, HU. Semiconductor metrology tools. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.04,
+     47.8
+    ]
+   },
+   "properties": {
+    "title": "Semsysco",
+    "description": "Salzburg, AT. Wet process equipment for packaging. L3 · Chip machines and design tools. Confidence: low.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01,
+     41.56
+    ]
+   },
+   "properties": {
+    "title": "Sensofar",
+    "description": "Terrassa, ES. 3D optical surface metrology. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4091,
+     52.451
+    ]
+   },
+   "properties": {
+    "title": "SENTECH Instruments",
+    "description": "Berlin, DE. Plasma etch and ALD tools, ellipsometers. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.72,
+     51.05
+    ]
+   },
+   "properties": {
+    "title": "Sigasi",
+    "description": "Ghent, BE. HDL design environment software. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.78,
+     45.2
+    ]
+   },
+   "properties": {
+    "title": "SPEA",
+    "description": "Volpiano, IT. Automatic test equipment. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.0,
+     51.59
+    ]
+   },
+   "properties": {
+    "title": "SPTS Technologies",
+    "description": "Newport, UK. Etch and deposition tools. L3 · Chip machines and design tools. Confidence: medium. Owned by KLA (US); operations in Wales.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.65,
+     48.25
+    ]
+   },
+   "properties": {
+    "title": "SUSS MicroTec",
+    "description": "Garching, DE. Lithography, bonding and coating tools. L3 · Chip machines and design tools. Confidence: high.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.6774,
+     51.0882
+    ]
+   },
+   "properties": {
+    "title": "VON ARDENNE",
+    "description": "Dresden, DE. Vacuum coating systems. L3 · Chip machines and design tools. Confidence: medium.",
+    "marker-color": "#d62728",
+    "marker-size": "small",
+    "layer": "L3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.8972,
+     51.8126
+    ]
+   },
+   "properties": {
+    "title": "Ampleon",
+    "description": "Nijmegen, NL. RF power transistors (LDMOS, GaN). L4 · Chip design and manufacturing. Confidence: medium. Owned by Chinese investors (JAC Capital).",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.35,
+     47.0
+    ]
+   },
+   "properties": {
+    "title": "ams OSRAM",
+    "description": "Premstatten, AT. Optical sensors, emitters and analog ICs. L4 · Chip design and manufacturing. Confidence: high. SIX Swiss Exchange listed; operational HQ Premstatten, Austria.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4388,
+     51.5422
     ]
    },
    "properties": {
     "title": "Axelera AI",
-    "description": "Eindhoven, NL. AI inference chips. L4 · Chip design & making",
+    "description": "Eindhoven, NL. AI inference chips. L4 · Chip design and manufacturing. Confidence: medium.",
     "marker-color": "#ff7f0e",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0839,
+     50.7753
+    ]
+   },
+   "properties": {
+    "title": "Black Semiconductor",
+    "description": "Aachen, DE. Graphene photonics for chip interconnect. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1218,
+     52.2053
+    ]
+   },
+   "properties": {
+    "title": "Cambridge GaN Devices",
+    "description": "Cambridge, UK. GaN power transistors, fabless. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9293,
+     46.99
+    ]
+   },
+   "properties": {
+    "title": "CSEM",
+    "description": "Neuchatel, CH. Ultra-low-power chip and systems R&D. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5406,
+     53.2307
+    ]
+   },
+   "properties": {
+    "title": "Dynex Semiconductor",
+    "description": "Lincoln, UK. High-power bipolar and IGBT devices, own fab. L4 · Chip design and manufacturing. Confidence: medium. Owned by CRRC Times Electric (China).",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.4653,
+     51.5136
+    ]
+   },
+   "properties": {
+    "title": "Elmos Semiconductor",
+    "description": "Dortmund, DE. Automotive mixed-signal chips. L4 · Chip design and manufacturing. Confidence: high.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2879,
+     51.6708
+    ]
+   },
+   "properties": {
+    "title": "EnSilica",
+    "description": "Abingdon, UK. ASIC design services and mixed-signal IP. L4 · Chip design and manufacturing. Confidence: medium. AIM listed.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7973,
+     51.0504
+    ]
+   },
+   "properties": {
+    "title": "ESMC (European Semiconductor Manufacturing Company)",
+    "description": "Dresden, DE. 28/22 and 16/12nm foundry, under construction. L4 · Chip design and manufacturing. Confidence: high. ANNOUNCED/UNDER CONSTRUCTION: TSMC 70%, Bosch, Infineon, NXP 10% each; tool install H2 2027, production target 2027.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.527,
+     52.431
+    ]
+   },
+   "properties": {
+    "title": "Ferdinand-Braun-Institut",
+    "description": "Berlin, DE. III-V compound semiconductor R&D, GaN/GaAs. L4 · Chip design and manufacturing. Confidence: medium. Leibniz Association institute.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.6747,
+     51.0886
+    ]
+   },
+   "properties": {
+    "title": "Ferroelectric Memory Company (FMC)",
+    "description": "Dresden, DE. Ferroelectric memory (DRAM+/NVM) technology. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1278,
+     51.5074
+    ]
+   },
+   "properties": {
+    "title": "Fractile",
+    "description": "London, UK. In-memory compute AI inference chips. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.582,
+     48.1351
+    ]
+   },
+   "properties": {
+    "title": "Fraunhofer-Gesellschaft (microelectronics institutes)",
+    "description": "Munich, DE. Applied chip R&D, pilot lines (IMS, ISIT, IZM). L4 · Chip design and manufacturing. Confidence: medium. Network of institutes; HQ Munich, relevant sites Duisburg, Itzehoe, Dresden, Berlin.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5879,
+     51.4545
+    ]
+   },
+   "properties": {
+    "title": "Graphcore",
+    "description": "Bristol, UK. AI accelerator (IPU) designer. L4 · Chip design and manufacturing. Confidence: high. Wholly owned by SoftBank since 2024; HQ and ops remain Bristol.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.5506,
+     52.3471
+    ]
+   },
+   "properties": {
+    "title": "IHP Leibniz Institute",
+    "description": "Frankfurt (Oder), DE. SiGe BiCMOS pilot line, open foundry. L4 · Chip design and manufacturing. Confidence: medium. Leibniz Association institute.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
     "layer": "L4"
    }
   },
@@ -369,9 +3225,9 @@
    },
    "properties": {
     "title": "Infineon",
-    "description": "Neubiberg, DE. Power chips, automotive and industrial. L4 · Chip design & making",
+    "description": "Neubiberg, DE. Power chips, automotive and industrial. L4 · Chip design and manufacturing. Confidence: medium.",
     "marker-color": "#ff7f0e",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L4"
    }
   },
@@ -380,15 +3236,117 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.3,
-     51.44
+     4.3571,
+     52.0116
+    ]
+   },
+   "properties": {
+    "title": "Innatera",
+    "description": "Delft, NL. Neuromorphic spiking edge AI processors. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.1977,
+     51.752
+    ]
+   },
+   "properties": {
+    "title": "Lumai",
+    "description": "Oxford, UK. Optical AI compute accelerators. L4 · Chip design and manufacturing. Confidence: low.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.8787,
+     50.8503
+    ]
+   },
+   "properties": {
+    "title": "Melexis",
+    "description": "Ypres, BE. Automotive sensor and driver ICs, fabless. L4 · Chip design and manufacturing. Confidence: high.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.74,
+     41.35
+    ]
+   },
+   "properties": {
+    "title": "NANIUM",
+    "description": "Vila do Conde, PT. Wafer-level fan-out packaging OSAT. L4 · Chip design and manufacturing. Confidence: medium. Owned by Amkor Technology (US).",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7746,
+     51.8508
+    ]
+   },
+   "properties": {
+    "title": "Nexperia",
+    "description": "Nijmegen, NL. Discrete and power semiconductors, own fabs. L4 · Chip design and manufacturing. Confidence: high. Owned by China's Wingtech; Dutch state intervention Oct 2025, governance dispute and Chinese-subsidiary split ongoing Aug 2026.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.3951,
+     63.4305
+    ]
+   },
+   "properties": {
+    "title": "Nordic Semiconductor",
+    "description": "Trondheim, NO. Low-power wireless and edge AI SoCs, fabless. L4 · Chip design and manufacturing. Confidence: high.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4018,
+     51.3396
     ]
    },
    "properties": {
     "title": "NXP",
-    "description": "Eindhoven, NL. Automotive and embedded chips. L4 · Chip design & making",
+    "description": "Eindhoven, NL. Automotive and embedded chips. L4 · Chip design and manufacturing. Confidence: medium.",
     "marker-color": "#ff7f0e",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L4"
    }
   },
@@ -397,15 +3355,151 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     6.14,
-     46.2
+     -1.5849,
+     54.7753
     ]
    },
    "properties": {
-    "title": "STMicroelectronics",
-    "description": "Geneva, CH. Broad chip portfolio, own fabs. L4 · Chip design & making",
+    "title": "Pragmatic Semiconductor",
+    "description": "Durham, UK. Flexible chips with own fabs. L4 · Chip design and manufacturing. Confidence: medium.",
     "marker-color": "#ff7f0e",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4122,
+     48.8566
+    ]
+   },
+   "properties": {
+    "title": "Prophesee",
+    "description": "Paris, FR. Neuromorphic event-based vision sensors. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.1829,
+     48.7758
+    ]
+   },
+   "properties": {
+    "title": "Q.ANT",
+    "description": "Stuttgart, DE. Photonic AI processor. L4 · Chip design and manufacturing. Confidence: medium. Trumpf spin-out.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3203,
+     51.7902
+    ]
+   },
+   "properties": {
+    "title": "Salience Labs",
+    "description": "Oxford, UK. Photonic switching and compute chips. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.386,
+     48.227
+    ]
+   },
+   "properties": {
+    "title": "Schweizer Electronic",
+    "description": "Schramberg, DE. Chip embedding and power PCBs. L4 · Chip design and manufacturing. Confidence: low. Majority held by Katek/ Dr. Schweizer (verify).",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.0767,
+     49.4521
+    ]
+   },
+   "properties": {
+    "title": "SEMIKRON Danfoss",
+    "description": "Nuremberg, DE. Power semiconductor modules. L4 · Chip design and manufacturing. Confidence: medium. Merged with Danfoss Silicon Power 2022.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7464,
+     50.9814
+    ]
+   },
+   "properties": {
+    "title": "SEMRON",
+    "description": "Dresden, DE. Analog in-memory edge AI chips. L4 · Chip design and manufacturing. Confidence: low.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8558,
+     46.6103
+    ]
+   },
+   "properties": {
+    "title": "Silicon Austria Labs",
+    "description": "Villach, AT. Electronic-based systems and chip research. L4 · Chip design and manufacturing. Confidence: medium. Public-private research centre.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.622,
+     45.4469
+    ]
+   },
+   "properties": {
+    "title": "Silicon Box (Novara plant)",
+    "description": "Novara, IT. Panel-level advanced packaging fab, planned. L4 · Chip design and manufacturing. Confidence: medium. ANNOUNCED: EUR 3.2bn Vulcan project; Silicon Box group HQ is Singapore, Italian entity only; Invitalia funding approved Oct 2026.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
     "layer": "L4"
    }
   },
@@ -420,9 +3514,9 @@
    },
    "properties": {
     "title": "SiPearl",
-    "description": "Maisons-Laffitte, FR. European HPC processor. L4 · Chip design & making",
+    "description": "Maisons-Laffitte, FR. European HPC processor. L4 · Chip design and manufacturing. Confidence: medium.",
     "marker-color": "#ff7f0e",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L4"
    }
   },
@@ -431,15 +3525,202 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.21,
-     48.93
+     17.944,
+     59.403
     ]
    },
    "properties": {
-    "title": "Eviden (Atos)",
-    "description": "Bezons, FR. Servers and supercomputers. L5 · Systems & infrastructure",
+    "title": "Sivers Semiconductors",
+    "description": "Kista, SE. Photonics lasers and RF for optical interconnect. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.4697,
+     51.4416
+    ]
+   },
+   "properties": {
+    "title": "SMART Photonics",
+    "description": "Eindhoven, NL. Indium phosphide photonic chip foundry. L4 · Chip design and manufacturing. Confidence: medium.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8103,
+     51.1139
+    ]
+   },
+   "properties": {
+    "title": "SpiNNcloud Systems",
+    "description": "Dresden, DE. Neuromorphic HPC systems (SpiNNaker2). L4 · Chip design and manufacturing. Confidence: medium. TU Dresden spin-out.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.2,
+     46.2
+    ]
+   },
+   "properties": {
+    "title": "STMicroelectronics",
+    "description": "Geneva, CH. Broad chip portfolio, own fabs. L4 · Chip design and manufacturing. Confidence: medium. Legal HQ Geneva, French and Italian roots.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5417,
+     47.3769
+    ]
+   },
+   "properties": {
+    "title": "SynSense",
+    "description": "Zurich, CH. Neuromorphic edge AI chips. L4 · Chip design and manufacturing. Confidence: medium. Operations also in Chengdu, China.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.4756,
+     51.8985
+    ]
+   },
+   "properties": {
+    "title": "Tyndall National Institute",
+    "description": "Cork, IE. Photonics and chip R&D, FAMES pilot line partner. L4 · Chip design and manufacturing. Confidence: high. Part of University College Cork.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.4037,
+     49.0069
+    ]
+   },
+   "properties": {
+    "title": "Ubitium",
+    "description": "Karlsruhe, DE. Universal RISC-V processor architecture. L4 · Chip design and manufacturing. Confidence: low.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.9876,
+     48.4011
+    ]
+   },
+   "properties": {
+    "title": "United Monolithic Semiconductors (UMS)",
+    "description": "Ulm, DE. GaN and GaAs RF foundry. L4 · Chip design and manufacturing. Confidence: low. HQ Ulm, fab in Ulm and Villebon-sur-Yvette FR; Airbus/Thales/Hensoldt shareholders (verify).",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2896,
+     48.8948
+    ]
+   },
+   "properties": {
+    "title": "VSORA",
+    "description": "Paris, FR. AI inference chip (Jotunn8) for data centres. L4 · Chip design and manufacturing. Confidence: medium. Taped out on TSMC 5nm; 2026 shipment status unverified.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.8275,
+     60.1867
+    ]
+   },
+   "properties": {
+    "title": "VTT Technical Research Centre",
+    "description": "Espoo, FI. Micro/nanofabrication, photonics pilot line. L4 · Chip design and manufacturing. Confidence: medium. State-owned research company; Micronova cleanroom.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.0833,
+     50.9333
+    ]
+   },
+   "properties": {
+    "title": "X-FAB Silicon Foundries",
+    "description": "Tessenderlo, BE. Analog/mixed-signal and SiC specialty foundry. L4 · Chip design and manufacturing. Confidence: high. Euronext Paris listed; fabs in DE, FR, MY, US.",
+    "marker-color": "#ff7f0e",
+    "marker-size": "small",
+    "layer": "L4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.4774,
+     47.4082
+    ]
+   },
+   "properties": {
+    "title": "ABB",
+    "description": "Zurich, CH. Electrical equipment and power distribution. L5 · Systems and infrastructure. Confidence: high.",
     "marker-color": "#bcbd22",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L5"
    }
   },
@@ -448,15 +3729,1188 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     5.08,
+     -3.7626,
+     40.4582
+    ]
+   },
+   "properties": {
+    "title": "ACS Group",
+    "description": "Madrid, ES. Construction, owns Turner. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.1274,
+     55.7382
+    ]
+   },
+   "properties": {
+    "title": "Alfa Laval",
+    "description": "Lund, SE. Heat exchangers for cooling. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.96,
      52.37
     ]
    },
    "properties": {
-    "title": "Nebius",
-    "description": "Amsterdam, NL. AI-focused cloud. L5 · Systems & infrastructure",
+    "title": "AMS-IX",
+    "description": "Amsterdam, NL. Internet exchange. L5 · Systems and infrastructure. Confidence: medium. Association.",
     "marker-color": "#bcbd22",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.93,
+     44.41
+    ]
+   },
+   "properties": {
+    "title": "Ansaldo Energia",
+    "description": "Genoa, IT. Gas turbines. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0791,
+     59.261
+    ]
+   },
+   "properties": {
+    "title": "Arelion",
+    "description": "Stockholm, SE. Backbone network. L5 · Systems and infrastructure. Confidence: medium. Owned by Polhem Infra.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.18,
+     51.43
+    ]
+   },
+   "properties": {
+    "title": "Ark Data Centres",
+    "description": "Corsham, UK. UK colocation operator. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.59,
+     45.7
+    ]
+   },
+   "properties": {
+    "title": "Aruba",
+    "description": "Ponte San Pietro, IT. Cloud and data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1926,
+     51.5482
+    ]
+   },
+   "properties": {
+    "title": "Arup",
+    "description": "London, UK. Engineering design. L5 · Systems and infrastructure. Confidence: medium. Trust-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.76,
+     52.3
+    ]
+   },
+   "properties": {
+    "title": "Asperitas",
+    "description": "Schiphol-Rijk, NL. Immersion cooling. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.94,
+     64.15
+    ]
+   },
+   "properties": {
+    "title": "atNorth",
+    "description": "Reykjavik, IS. Nordic HPC and AI colocation. L5 · Systems and infrastructure. Confidence: medium. Owned by Partners Group.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11,
+     41.39
+    ]
+   },
+   "properties": {
+    "title": "Barcelona Supercomputing Center",
+    "description": "Barcelona, ES. Hosts MareNostrum 5. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2874,
+     48.8982
+    ]
+   },
+   "properties": {
+    "title": "Bouygues",
+    "description": "Paris, FR. Construction incl. data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.99,
+     48.82
+    ]
+   },
+   "properties": {
+    "title": "Bull (Atos Advanced Computing)",
+    "description": "Les Clayes-sous-Bois, FR. BullSequana supercomputers and AI servers. L5 · Systems and infrastructure. Confidence: high. Sold by Atos/Eviden to French state, closed 31 Mar 2026; corrects existing Eviden entry (Eviden now only cybersecurity/mission-critical).",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.35,
+     44.53
+    ]
+   },
+   "properties": {
+    "title": "CINECA",
+    "description": "Bologna, IT. Hosts Leonardo supercomputer. L5 · Systems and infrastructure. Confidence: high. University consortium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1209,
+     51.441
+    ]
+   },
+   "properties": {
+    "title": "Civo",
+    "description": "London, UK. Developer cloud with GPU offering. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7491,
+     50.981
+    ]
+   },
+   "properties": {
+    "title": "Cloud&Heat Technologies",
+    "description": "Dresden, DE. Heat-reuse servers and sovereign cloud. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.057,
+     51.5735
+    ]
+   },
+   "properties": {
+    "title": "Colt Data Centre Services",
+    "description": "London, UK. Hyperscale data centres. L5 · Systems and infrastructure. Confidence: medium. Part of Colt Technology Services.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.72,
+     60.2
+    ]
+   },
+   "properties": {
+    "title": "CSC - IT Center for Science",
+    "description": "Espoo, FI. Operates LUMI supercomputer. L5 · Systems and infrastructure. Confidence: high. State-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.72,
+     55.05
+    ]
+   },
+   "properties": {
+    "title": "Danfoss",
+    "description": "Nordborg, DK. Cooling components and heat reuse. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3591,
+     48.791
+    ]
+   },
+   "properties": {
+    "title": "Data4",
+    "description": "Paris, FR. Data centre campuses across Europe. L5 · Systems and infrastructure. Confidence: high. Owned by Brookfield since 2023.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.74,
+     50.11
+    ]
+   },
+   "properties": {
+    "title": "DE-CIX",
+    "description": "Frankfurt, DE. Internet exchange operator. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.1,
+     50.73
+    ]
+   },
+   "properties": {
+    "title": "Deutsche Telekom (T-Systems)",
+    "description": "Bonn, DE. Industrial AI Cloud, sovereign cloud, data centres. L5 · Systems and infrastructure. Confidence: medium. With Nvidia AI factory in Munich.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.9474,
+     51.4982
+    ]
+   },
+   "properties": {
+    "title": "E.ON",
+    "description": "Essen, DE. Grids and energy. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.69,
+     44.6
+    ]
+   },
+   "properties": {
+    "title": "E4 Computer Engineering",
+    "description": "Scandiano, IT. HPC and AI server systems. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.63,
+     60.6
+    ]
+   },
+   "properties": {
+    "title": "EcoDataCenter",
+    "description": "Falun, SE. Climate-positive data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.423,
+     48.9235
+    ]
+   },
+   "properties": {
+    "title": "EDF",
+    "description": "Paris, FR. Nuclear and utility. L5 · Systems and infrastructure. Confidence: high. State-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.47,
+     51.44
+    ]
+   },
+   "properties": {
+    "title": "EFFECT Photonics",
+    "description": "Eindhoven, NL. Coherent optical transceivers. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5226,
+     48.7682
+    ]
+   },
+   "properties": {
+    "title": "Ekinops",
+    "description": "Lannion, FR. Optical transport equipment. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.5,
+     41.9
+    ]
+   },
+   "properties": {
+    "title": "Enel",
+    "description": "Rome, IT. Utility and renewables. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1774,
+     48.9282
+    ]
+   },
+   "properties": {
+    "title": "ENGIE",
+    "description": "Courbevoie, FR. Utility and renewables. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.19,
+     49.61
+    ]
+   },
+   "properties": {
+    "title": "EuroHPC Joint Undertaking",
+    "description": "Luxembourg, LU. Funds EU supercomputers and AI factories. L5 · Systems and infrastructure. Confidence: high. EU public body.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.1,
+     46.4
+    ]
+   },
+   "properties": {
+    "title": "Eurotech",
+    "description": "Amaro, IT. Edge and HPC computers. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1474,
+     48.9682
+    ]
+   },
+   "properties": {
+    "title": "Eviden",
+    "description": "Bezons, FR. Servers and supercomputers. L5 · Systems and infrastructure. Confidence: low. Atos unit. Bull (HPC) was reportedly sold to the French state in March 2026.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.143,
+     59.3935
+    ]
+   },
+   "properties": {
+    "title": "evroc",
+    "description": "Stockholm, SE. Sovereign hyperscale cloud and AI compute. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2179,
+     48.8444
+    ]
+   },
+   "properties": {
+    "title": "Exaion",
+    "description": "Paris, FR. HPC and AI cloud. L5 · Systems and infrastructure. Confidence: low. EDF subsidiary.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6909,
+     40.351
+    ]
+   },
+   "properties": {
+    "title": "Ferrovial",
+    "description": "Madrid, ES. Construction and infrastructure. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.36,
+     50.92
+    ]
+   },
+   "properties": {
+    "title": "Forschungszentrum Julich (JSC)",
+    "description": "Julich, DE. Hosts JUPITER exascale supercomputer. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.5974,
+     60.2382
+    ]
+   },
+   "properties": {
+    "title": "Fortum",
+    "description": "Espoo, FI. Power and nuclear. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0674,
+     49.6482
+    ]
+   },
+   "properties": {
+    "title": "Gcore",
+    "description": "Luxembourg, LU. AI cloud and edge. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.57,
+     48.14
+    ]
+   },
+   "properties": {
+    "title": "Genesis Cloud",
+    "description": "Munich, DE. GPU cloud on Nordic data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2621,
+     51.4944
+    ]
+   },
+   "properties": {
+    "title": "Global Switch",
+    "description": "London, UK. Hyperscale colocation. L5 · Systems and infrastructure. Confidence: medium. Owned by Chinese-led consortium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.6674,
+     59.0082
+    ]
+   },
+   "properties": {
+    "title": "Green Mountain",
+    "description": "Stavanger, NO. Norwegian green colocation. L5 · Systems and infrastructure. Confidence: medium. Owned by Azrieli Group (Israel).",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.76,
+     49.11
+    ]
+   },
+   "properties": {
+    "title": "Hetzner Online",
+    "description": "Gunzenhausen, DE. Hosting, dedicated servers, GPU servers. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5491,
+     47.301
+    ]
+   },
+   "properties": {
+    "title": "Hitachi Energy",
+    "description": "Zurich, CH. Transformers and grid equipment. L5 · Systems and infrastructure. Confidence: medium. Owned by Hitachi (Japan).",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.28,
+     47.38
+    ]
+   },
+   "properties": {
+    "title": "HUBER+SUHNER",
+    "description": "Herisau, CH. Fibre and RF connectivity. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.006,
+     51.4574
+    ]
+   },
+   "properties": {
+    "title": "Hyperstack (NexGen Cloud)",
+    "description": "London, UK. GPU cloud. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.93,
+     43.26
+    ]
+   },
+   "properties": {
+    "title": "Iberdrola",
+    "description": "Bilbao, ES. Utility, renewables, grids. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.47,
+     53.38
+    ]
+   },
+   "properties": {
+    "title": "Iceotope",
+    "description": "Sheffield, UK. Liquid cooling. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.0774,
+     46.2382
+    ]
+   },
+   "properties": {
+    "title": "Infomaniak",
+    "description": "Geneva, CH. Swiss cloud and own data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.83,
+     50.43
+    ]
+   },
+   "properties": {
+    "title": "IONOS",
+    "description": "Montabaur, DE. Cloud and hosting. L5 · Systems and infrastructure. Confidence: high. United Internet majority owner.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1,
+     51.78
+    ]
+   },
+   "properties": {
+    "title": "Kao Data",
+    "description": "Harlow, UK. AI-ready colocation campuses. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.64,
+     52.38
+    ]
+   },
+   "properties": {
+    "title": "Leaseweb",
+    "description": "Haarlem, NL. Hosting, cloud and GPU servers. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.26,
+     45.83
+    ]
+   },
+   "properties": {
+    "title": "Legrand",
+    "description": "Limoges, FR. Power distribution for data centres. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1712,
+     51.6122
+    ]
+   },
+   "properties": {
+    "title": "Mace",
+    "description": "London, UK. Data centre construction management. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.92,
+     50.83
+    ]
+   },
+   "properties": {
+    "title": "MEGWARE",
+    "description": "Chemnitz, DE. HPC cluster and liquid-cooled server builder. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2,
+     53.35
+    ]
+   },
+   "properties": {
+    "title": "Mercury Engineering",
+    "description": "Dublin, IE. Mechanical and electrical data centre contractor. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.627,
+     40.4835
+    ]
+   },
+   "properties": {
+    "title": "Merlin Properties",
+    "description": "Madrid, ES. REIT developing data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.8774,
+     59.4382
+    ]
+   },
+   "properties": {
+    "title": "Munters",
+    "description": "Kista, SE. Data centre air and cooling. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2082,
+     51.4096
+    ]
+   },
+   "properties": {
+    "title": "National Grid",
+    "description": "London, UK. Transmission networks. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8374,
+     52.4082
+    ]
+   },
+   "properties": {
+    "title": "Nebius",
+    "description": "Amsterdam, NL. AI-focused cloud. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.49,
+     52.16
+    ]
+   },
+   "properties": {
+    "title": "Nebul",
+    "description": "Leiden, NL. Sovereign private AI cloud. L5 · Systems and infrastructure. Confidence: medium. HQ reported as Leiden by NetApp, Amsterdam by some sources.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.26,
+     48.9
+    ]
+   },
+   "properties": {
+    "title": "Nexans",
+    "description": "Courbevoie, FR. Power and data cables. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.42,
+     55.65
+    ]
+   },
+   "properties": {
+    "title": "NKT",
+    "description": "Brondby, DK. High-voltage cables. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.74,
+     60.17
+    ]
+   },
+   "properties": {
+    "title": "Nokia",
+    "description": "Espoo, FI. Data centre networking and optical. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.9274,
+     53.5882
+    ]
+   },
+   "properties": {
+    "title": "Nordex",
+    "description": "Hamburg, DE. Wind turbines. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.6174,
+     50.1482
+    ]
+   },
+   "properties": {
+    "title": "Northern Data",
+    "description": "Frankfurt, DE. GPU cloud and HPC data centres. L5 · Systems and infrastructure. Confidence: medium. 85.2% acquired by Rumble (US) 17 Jun 2026; operations/HQ remain Frankfurt.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0391,
+     51.5512
+    ]
+   },
+   "properties": {
+    "title": "Nscale",
+    "description": "London, UK. AI hyperscaler, GPU data centres incl. Narvik. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3054,
+     51.5582
+    ]
+   },
+   "properties": {
+    "title": "Oriole Networks",
+    "description": "London, UK. Optical switching for AI clusters. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.75,
+     55.57
+    ]
+   },
+   "properties": {
+    "title": "Orsted",
+    "description": "Fredericia, DK. Offshore wind. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21,
+     48.84
+    ]
+   },
+   "properties": {
+    "title": "OUTSCALE",
+    "description": "Saint-Cloud, FR. SecNumCloud sovereign cloud. L5 · Systems and infrastructure. Confidence: medium. Dassault Systemes subsidiary.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
     "layer": "L5"
    }
   },
@@ -471,9 +4925,179 @@
    },
    "properties": {
     "title": "OVHcloud",
-    "description": "Roubaix, FR. European cloud and hosting. L5 · Systems & infrastructure",
+    "description": "Roubaix, FR. European cloud and hosting. L5 · Systems and infrastructure. Confidence: medium.",
     "marker-color": "#bcbd22",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5388,
+     48.2422
+    ]
+   },
+   "properties": {
+    "title": "ParTec",
+    "description": "Munich, DE. Modular supercomputer architecture, JUPITER system software. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.25,
+     51.73
+    ]
+   },
+   "properties": {
+    "title": "Piller Power Systems",
+    "description": "Osterode am Harz, DE. Rotary UPS. L5 · Systems and infrastructure. Confidence: medium. Owned by Langley Holdings (UK).",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.19,
+     45.46
+    ]
+   },
+   "properties": {
+    "title": "Prysmian",
+    "description": "Milan, IT. Power and fibre cables. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.3,
+     45.19
+    ]
+   },
+   "properties": {
+    "title": "Riello UPS",
+    "description": "Legnago, IT. UPS systems. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.3,
+     50.68
+    ]
+   },
+   "properties": {
+    "title": "Rittal",
+    "description": "Herborn, DE. Enclosures and cooling. L5 · Systems and infrastructure. Confidence: high. Friedhelm Loh Group.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0456,
+     51.3899
+    ]
+   },
+   "properties": {
+    "title": "Rolls-Royce (mtu power systems)",
+    "description": "London, UK. Backup generators for data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.47,
+     52.92
+    ]
+   },
+   "properties": {
+    "title": "Rolls-Royce SMR",
+    "description": "Derby, UK. Small modular reactors. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.2,
+     52.06
+    ]
+   },
+   "properties": {
+    "title": "Royal BAM Group",
+    "description": "Bunnik, NL. Construction. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.0191,
+     51.391
+    ]
+   },
+   "properties": {
+    "title": "RWE",
+    "description": "Essen, DE. Power generation. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2674,
+     48.9082
+    ]
+   },
+   "properties": {
+    "title": "Scaleway",
+    "description": "Paris, FR. European cloud with GPU clusters. L5 · Systems and infrastructure. Confidence: high. Part of Iliad group.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
     "layer": "L5"
    }
   },
@@ -488,9 +5112,9 @@
    },
    "properties": {
     "title": "Schneider Electric",
-    "description": "Rueil-Malmaison, FR. Data centre power and cooling. L5 · Systems & infrastructure",
+    "description": "Rueil-Malmaison, FR. Data centre power and cooling. L5 · Systems and infrastructure. Confidence: medium.",
     "marker-color": "#bcbd22",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L5"
    }
   },
@@ -499,15 +5123,66 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     11.4344,
-     48.0695
+     13.34,
+     41.64
+    ]
+   },
+   "properties": {
+    "title": "Seeweb",
+    "description": "Frosinone, IT. Cloud with GPU services. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.37,
+     43.3
+    ]
+   },
+   "properties": {
+    "title": "Sesterce",
+    "description": "Marseille, FR. GPU cloud and AI data centres (Valence). L5 · Systems and infrastructure. Confidence: medium. HQ listed as Marseille on one directory only.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5018,
+     48.0396
+    ]
+   },
+   "properties": {
+    "title": "Siemens AG (Smart Infrastructure)",
+    "description": "Munich, DE. Switchgear and building systems. L5 · Systems and infrastructure. Confidence: medium. Parent of Siemens Energy spin-off.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.7491,
+     48.1812
     ]
    },
    "properties": {
     "title": "Siemens Energy",
-    "description": "Munich, DE. Power generation and grid equipment. L5 · Systems & infrastructure",
+    "description": "Munich, DE. Power generation and grid equipment. L5 · Systems and infrastructure. Confidence: medium.",
     "marker-color": "#bcbd22",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L5"
    }
   },
@@ -516,15 +5191,457 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     7.01,
-     51.46
+     -6.3226,
+     53.3882
+    ]
+   },
+   "properties": {
+    "title": "Sisk",
+    "description": "Dublin, IE. Data centre construction. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.9379,
+     59.3144
+    ]
+   },
+   "properties": {
+    "title": "Skanska",
+    "description": "Stockholm, SE. Construction. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.59,
+     48.37
+    ]
+   },
+   "properties": {
+    "title": "Socomec",
+    "description": "Benfeld, FR. UPS and switching. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43,
+     56.4
+    ]
+   },
+   "properties": {
+    "title": "SSE",
+    "description": "Perth, UK. Renewables and networks. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.22,
+     49.19
+    ]
+   },
+   "properties": {
+    "title": "STACKIT",
+    "description": "Neckarsulm, DE. Sovereign cloud of Schwarz Group. L5 · Systems and infrastructure. Confidence: high. Schwarz Digits.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.14,
+     38.72
+    ]
+   },
+   "properties": {
+    "title": "START Campus",
+    "description": "Lisbon, PT. Sines hyperscale data centre campus. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.6874,
+     59.9482
+    ]
+   },
+   "properties": {
+    "title": "Statkraft",
+    "description": "Oslo, NO. Hydropower. L5 · Systems and infrastructure. Confidence: high. Norwegian state-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.9991,
+     53.481
+    ]
+   },
+   "properties": {
+    "title": "STULZ",
+    "description": "Hamburg, DE. Precision cooling. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1791,
+     41.321
+    ]
+   },
+   "properties": {
+    "title": "Submer",
+    "description": "Barcelona, ES. Immersion cooling and data centres. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.48,
+     46.97
+    ]
+   },
+   "properties": {
+    "title": "Swisscom",
+    "description": "Ittigen, CH. Telco with AI cloud and data centres. L5 · Systems and infrastructure. Confidence: medium. Majority Swiss state-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9091,
+     52.301
+    ]
+   },
+   "properties": {
+    "title": "Switch Datacenters",
+    "description": "Amsterdam, NL. Amsterdam colocation. L5 · Systems and infrastructure. Confidence: low.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.62,
+     59.9
+    ]
+   },
+   "properties": {
+    "title": "Telenor",
+    "description": "Fornebu, NO. Telco running Telenor AI Factory. L5 · Systems and infrastructure. Confidence: medium. Norwegian state majority.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.91,
+     51.98
+    ]
+   },
+   "properties": {
+    "title": "TenneT",
+    "description": "Arnhem, NL. Transmission system operator. L5 · Systems and infrastructure. Confidence: medium. Dutch state-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.55,
+     48.8
+    ]
+   },
+   "properties": {
+    "title": "Thomas-Krenn",
+    "description": "Freyung, DE. Server and storage manufacturer. L5 · Systems and infrastructure. Confidence: low. Owned by Noris Network.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.0,
+     60.17
+    ]
+   },
+   "properties": {
+    "title": "UpCloud",
+    "description": "Helsinki, FI. Cloud infrastructure provider. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.194,
+     59.2774
+    ]
+   },
+   "properties": {
+    "title": "Vattenfall",
+    "description": "Stockholm, SE. Nuclear, hydro, wind. L5 · Systems and infrastructure. Confidence: high. Swedish state-owned.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.8774,
+     60.2082
+    ]
+   },
+   "properties": {
+    "title": "Verda (formerly DataCrunch)",
+    "description": "Helsinki, FI. Nordic GPU cloud. L5 · Systems and infrastructure. Confidence: high. Rebranded Nov 2025.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0679,
+     51.6422
+    ]
+   },
+   "properties": {
+    "title": "Verne",
+    "description": "London, UK. Nordic hyperscale data centres. L5 · Systems and infrastructure. Confidence: low. Owned by Ardian.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.21,
+     56.15
+    ]
+   },
+   "properties": {
+    "title": "Vestas",
+    "description": "Aarhus, DK. Wind turbines. L5 · Systems and infrastructure. Confidence: high.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18,
+     48.88
+    ]
+   },
+   "properties": {
+    "title": "Vinci",
+    "description": "Rueil-Malmaison, FR. Construction incl. data centres. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.9491,
+     60.101
+    ]
+   },
+   "properties": {
+    "title": "Waertsilae",
+    "description": "Helsinki, FI. Engine power plants. L5 · Systems and infrastructure. Confidence: medium.",
+    "marker-color": "#bcbd22",
+    "marker-size": "small",
+    "layer": "L5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.975,
+     57.709
+    ]
+   },
+   "properties": {
+    "title": "AI Sweden",
+    "description": "Gothenburg, SE. National AI applied research centre. L6 · Data and talent. Confidence: medium. Publicly funded, built GPT-SW3.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.777,
+     45.65
+    ]
+   },
+   "properties": {
+    "title": "Aindo",
+    "description": "Trieste, IT. Synthetic data platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.068,
+     51.507
+    ]
+   },
+   "properties": {
+    "title": "Alan Turing Institute",
+    "description": "London, UK. UK national institute for data science and AI. L6 · Data and talent. Confidence: high.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.316,
+     39.47
+    ]
+   },
+   "properties": {
+    "title": "Anyverse",
+    "description": "Valencia, ES. Synthetic sensor data for perception AI. L6 · Data and talent. Confidence: low. HQ city from memory.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.465,
+     52.52
+    ]
+   },
+   "properties": {
+    "title": "Apheris",
+    "description": "Berlin, DE. Federated data collaboration for AI. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.083,
+     51.5235
     ]
    },
    "properties": {
     "title": "Clickworker",
-    "description": "Essen, DE. Crowd work for data and labelling. L6 · Data & talent",
+    "description": "Essen, DE. Crowd work for data and labelling. L6 · Data and talent. Confidence: medium.",
     "marker-color": "#17becf",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L6"
    }
   },
@@ -533,15 +5650,270 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.26,
-     48.9639
+     13.3424,
+     52.5582
+    ]
+   },
+   "properties": {
+    "title": "Datarade",
+    "description": "Berlin, DE. Data marketplace directory. L6 · Data and talent. Confidence: low.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.836,
+     45.764
+    ]
+   },
+   "properties": {
+    "title": "Dawex",
+    "description": "Lyon, FR. Data exchange and marketplace platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.769,
+     49.444
+    ]
+   },
+   "properties": {
+    "title": "DFKI",
+    "description": "Kaiserslautern, DE. German Research Center for AI. L6 · Data and talent. Confidence: medium. Non-profit GmbH, several sites.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.117,
+     48.521
+    ]
+   },
+   "properties": {
+    "title": "ELLIS Institute Tubingen",
+    "description": "Tubingen, DE. European AI research institute and talent hub. L6 · Data and talent. Confidence: medium. Part of the ELLIS network.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1906,
+     51.5452
+    ]
+   },
+   "properties": {
+    "title": "Encord",
+    "description": "London, UK. Multimodal data annotation and curation platform. L6 · Data and talent. Confidence: medium. Also large San Francisco presence; raised $60M Dec 2025.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1189,
+     51.438
+    ]
+   },
+   "properties": {
+    "title": "Entrepreneur First",
+    "description": "London, UK. Talent investor building AI founders. L6 · Data and talent. Confidence: medium. Also operates in Paris, Berlin and elsewhere.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.601,
+     47.377
+    ]
+   },
+   "properties": {
+    "title": "ETH AI Center",
+    "description": "Zurich, CH. ETH Zurich AI research and talent centre. L6 · Data and talent. Confidence: medium. University unit.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.412,
+     48.857
+    ]
+   },
+   "properties": {
+    "title": "Giskard",
+    "description": "Paris, FR. AI testing and evaluation tooling. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.129,
+     59.329
+    ]
+   },
+   "properties": {
+    "title": "Hopsworks",
+    "description": "Stockholm, SE. Feature store and ML data platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.073,
+     46.103
+    ]
+   },
+   "properties": {
+    "title": "Idiap Research Institute",
+    "description": "Martigny, CH. Speech and machine-learning research institute. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.951,
+     46.004
+    ]
+   },
+   "properties": {
+    "title": "IDSIA USI-SUPSI",
+    "description": "Lugano, CH. AI research institute. L6 · Data and talent. Confidence: medium. Academic institute.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2894,
+     48.8952
+    ]
+   },
+   "properties": {
+    "title": "Innovatiana",
+    "description": "Paris, FR. Data labelling services. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3611,
+     48.788
+    ]
+   },
+   "properties": {
+    "title": "Inria",
+    "description": "Paris, FR. National research institute for digital science. L6 · Data and talent. Confidence: medium. Public body; HQ at Le Chesnay near Paris.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.425,
+     48.9205
+    ]
+   },
+   "properties": {
+    "title": "isahit",
+    "description": "Paris, FR. Ethical data annotation workforce. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2199,
+     48.8414
+    ]
+   },
+   "properties": {
+    "title": "Kili Technology",
+    "description": "Paris, FR. Data labelling platform and services. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.474,
+     48.8074
     ]
    },
    "properties": {
     "title": "Kyutai",
-    "description": "Paris, FR. Open research lab (non-profit). L6 · Data & talent",
+    "description": "Paris, FR. Open research lab (non-profit). L6 · Data and talent. Confidence: medium.",
     "marker-color": "#17becf",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L6"
    }
   },
@@ -550,15 +5922,15 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     9.81,
-     53.55
+     10.063,
+     53.6135
     ]
    },
    "properties": {
     "title": "LAION",
-    "description": "Hamburg, DE. Open datasets (non-profit). L6 · Data & talent",
+    "description": "Hamburg, DE. Open datasets (non-profit). L6 · Data and talent. Confidence: medium.",
     "marker-color": "#17becf",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L6"
    }
   },
@@ -567,15 +5939,117 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     0.05,
-     51.51
+     8.4784,
+     47.4152
+    ]
+   },
+   "properties": {
+    "title": "Lightly",
+    "description": "Zurich, CH. Data curation for computer vision. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.9944,
+     48.5592
+    ]
+   },
+   "properties": {
+    "title": "Max Planck Institute for Intelligent Systems",
+    "description": "Tubingen, DE. Machine learning and robotics research. L6 · Data and talent. Confidence: medium. Also site in Stuttgart.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4141,
+     52.451
+    ]
+   },
+   "properties": {
+    "title": "Merantix",
+    "description": "Berlin, DE. AI venture studio and talent hub. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.374,
+     48.208
+    ]
+   },
+   "properties": {
+    "title": "Mostly AI",
+    "description": "Vienna, AT. Synthetic tabular data platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.4386,
+     39.5082
+    ]
+   },
+   "properties": {
+    "title": "Pangeanic",
+    "description": "Valencia, ES. Language data and machine-translation data. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.476,
+     48.8044
+    ]
+   },
+   "properties": {
+    "title": "Pleias",
+    "description": "Paris, FR. Open training corpora (Common Corpus) and small models. L6 · Data and talent. Confidence: medium. Also builds small open models.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3171,
+     51.4376
     ]
    },
    "properties": {
     "title": "Prolific",
-    "description": "London, UK. Human participant data for research and evals. L6 · Data & talent",
+    "description": "London, UK. Human participant data for research and evals. L6 · Data and talent. Confidence: medium.",
     "marker-color": "#17becf",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L6"
    }
   },
@@ -584,15 +6058,100 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     4.72,
-     52.37
+     13.478,
+     52.5835
+    ]
+   },
+   "properties": {
+    "title": "Qdrant",
+    "description": "Berlin, DE. Open-source vector database. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.554,
+     51.607
+    ]
+   },
+   "properties": {
+    "title": "RWS Holdings",
+    "description": "Chalfont St Peter, UK. Language and AI training data services (TrainAI). L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.055,
+     51.5705
+    ]
+   },
+   "properties": {
+    "title": "Synthesized",
+    "description": "London, UK. Synthetic and test data platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.358,
+     52.011
+    ]
+   },
+   "properties": {
+    "title": "Syntho",
+    "description": "Delft, NL. Synthetic data generation for enterprises. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3108,
+     48.9592
+    ]
+   },
+   "properties": {
+    "title": "Teleperformance",
+    "description": "Paris, FR. Customer-service giant with AI data services (TP.ai). L6 · Data and talent. Confidence: medium. AI data is a small part of the business.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.973,
+     52.4335
     ]
    },
    "properties": {
     "title": "Toloka",
-    "description": "Amsterdam, NL. Human data labelling. L6 · Data & talent",
+    "description": "Amsterdam, NL. Human data labelling. L6 · Data and talent. Confidence: medium.",
     "marker-color": "#17becf",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L6"
    }
   },
@@ -601,15 +6160,66 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.67,
-     49.4
+     -0.2601,
+     51.4914
+    ]
+   },
+   "properties": {
+    "title": "V7",
+    "description": "London, UK. Data annotation and labelling platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.267,
+     60.452
+    ]
+   },
+   "properties": {
+    "title": "Valohai",
+    "description": "Turku, FI. MLOps platform. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.955,
+     52.37
+    ]
+   },
+   "properties": {
+    "title": "Weaviate",
+    "description": "Amsterdam, NL. Open-source vector database. L6 · Data and talent. Confidence: medium.",
+    "marker-color": "#17becf",
+    "marker-size": "small",
+    "layer": "L6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.6074,
+     49.4382
     ]
    },
    "properties": {
     "title": "Aleph Alpha",
-    "description": "Heidelberg, DE. Enterprise and sovereign LLMs. L7 · Frontier labs",
+    "description": "Heidelberg, DE. Enterprise and sovereign LLMs. L7 · Frontier labs. Confidence: medium.",
     "marker-color": "#1f77b4",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L7"
    }
   },
@@ -618,15 +6228,83 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     7.85,
-     47.99
+     12.496,
+     41.903
+    ]
+   },
+   "properties": {
+    "title": "Almawave",
+    "description": "Rome, IT. Velvet sovereign Italian LLMs. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2738,
+     48.7566
+    ]
+   },
+   "properties": {
+    "title": "AMI Labs",
+    "description": "Paris, FR. World-model research lab (LeCun). L7 · Frontier labs. Confidence: high. Raised about $1.03B seed in 2026; offices also in NY, Montreal, Singapore.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.004,
+     51.4544
+    ]
+   },
+   "properties": {
+    "title": "Basecamp Research",
+    "description": "London, UK. Biological foundation models and data. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.5211,
+     48.8982
+    ]
+   },
+   "properties": {
+    "title": "Bioptimus",
+    "description": "Paris, FR. Biology foundation models. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.7874,
+     48.0282
     ]
    },
    "properties": {
     "title": "Black Forest Labs",
-    "description": "Freiburg, DE. Image generation models. L7 · Frontier labs",
+    "description": "Freiburg, DE. Image generation models. L7 · Frontier labs. Confidence: medium.",
     "marker-color": "#1f77b4",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L7"
    }
   },
@@ -635,15 +6313,66 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.13,
-     51.63
+     4.8324,
+     52.4082
+    ]
+   },
+   "properties": {
+    "title": "Cradle",
+    "description": "Amsterdam, NL. Protein engineering AI models. L7 · Frontier labs. Confidence: medium. Also Zurich office.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.19,
+     45.464
+    ]
+   },
+   "properties": {
+    "title": "Domyn",
+    "description": "Milan, IT. Enterprise LLMs (formerly iGenius). L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1692,
+     51.6092
+    ]
+   },
+   "properties": {
+    "title": "ElevenLabs",
+    "description": "London, UK. Speech and audio generation models. L7 · Frontier labs. Confidence: low. Founded by Poles; sources split HQ between London and New York, entity is ElevenLabs Inc. Borderline.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0893,
+     51.4779
     ]
    },
    "properties": {
     "title": "Google DeepMind",
-    "description": "London, UK. Frontier models (owned by Alphabet). L7 · Frontier labs",
+    "description": "London, UK. Frontier models (owned by Alphabet). L7 · Frontier labs. Confidence: medium. Part of Alphabet.",
     "marker-color": "#1f77b4",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L7"
    }
   },
@@ -652,15 +6381,168 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     2.26,
-     48.7561
+     4.497,
+     52.16
+    ]
+   },
+   "properties": {
+    "title": "GPT-NL",
+    "description": "Leiden, NL. Dutch sovereign LLM. L7 · Frontier labs. Confidence: low. Led by TNO (Leiden/The Hague area), SURF, NFI.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1766,
+     48.9052
+    ]
+   },
+   "properties": {
+    "title": "Gradium",
+    "description": "Paris, FR. Voice (TTS and STT) foundation models. L7 · Frontier labs. Confidence: high. Spun out of Kyutai 2025; raised $70M seed.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4364,
+     48.7369
+    ]
+   },
+   "properties": {
+    "title": "H Company",
+    "description": "Paris, FR. Agentic and computer-use models. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2062,
+     51.4066
+    ]
+   },
+   "properties": {
+    "title": "Ineffable Intelligence",
+    "description": "London, UK. Reinforcement-learning superintelligence lab (David Silver). L7 · Frontier labs. Confidence: high. Raised about $1.1B seed; no product yet.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0411,
+     51.5482
+    ]
+   },
+   "properties": {
+    "title": "InstaDeep",
+    "description": "London, UK. Bio and decision-making AI models. L7 · Frontier labs. Confidence: medium. Owned by BioNTech; offices in Paris and elsewhere.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3034,
+     51.5552
+    ]
+   },
+   "properties": {
+    "title": "Isomorphic Labs",
+    "description": "London, UK. AI drug-discovery models. L7 · Frontier labs. Confidence: high. Alphabet subsidiary.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5501,
+     47.308
+    ]
+   },
+   "properties": {
+    "title": "Jua",
+    "description": "Zurich, CH. Weather foundation model. L7 · Frontier labs. Confidence: low.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0436,
+     51.3869
+    ]
+   },
+   "properties": {
+    "title": "Latent Labs",
+    "description": "London, UK. Protein design foundation models. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4141,
+     48.9892
+    ]
+   },
+   "properties": {
+    "title": "LightOn",
+    "description": "Paris, FR. Enterprise LLMs and retrieval models. L7 · Frontier labs. Confidence: medium. Listed on Euronext Growth.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3088,
+     48.9622
     ]
    },
    "properties": {
     "title": "Mistral AI",
-    "description": "Paris, FR. Frontier and open-weight models. L7 · Frontier labs",
+    "description": "Paris, FR. Frontier and open-weight models. L7 · Frontier labs. Confidence: medium.",
     "marker-color": "#1f77b4",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L7"
    }
   },
@@ -669,15 +6551,83 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.31,
-     51.51
+     -0.0659,
+     51.6392
+    ]
+   },
+   "properties": {
+    "title": "Neuphonic",
+    "description": "London, UK. Text-to-speech models. L7 · Frontier labs. Confidence: low.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1649,
+     48.7846
+    ]
+   },
+   "properties": {
+    "title": "Poolside",
+    "description": "Paris, FR. Coding foundation models. L7 · Frontier labs. Confidence: low. US-founded, Sifted reported move of HQ to Paris in 2023; current HQ disputed (SF vs Paris).",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.938,
+     60.17
+    ]
+   },
+   "properties": {
+    "title": "Silo AI",
+    "description": "Helsinki, FI. Open Nordic LLMs (Poro, Viking). L7 · Frontier labs. Confidence: high. Acquired by AMD in 2024.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.179,
+     52.205
+    ]
+   },
+   "properties": {
+    "title": "Speechmatics",
+    "description": "Cambridge, UK. Speech recognition foundation models. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2637,
+     51.6367
     ]
    },
    "properties": {
     "title": "Stability AI",
-    "description": "London, UK. Open image and media models. L7 · Frontier labs",
+    "description": "London, UK. Open image and media models. L7 · Frontier labs. Confidence: medium.",
     "marker-color": "#1f77b4",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L7"
    }
   },
@@ -686,15 +6636,270 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     6.96,
-     50.94
+     8.614,
+     47.4405
+    ]
+   },
+   "properties": {
+    "title": "Swiss National AI Institute (Apertus)",
+    "description": "Zurich, CH. Open sovereign LLM Apertus. L7 · Frontier labs. Confidence: medium. EPFL and ETH Zurich joint initiative; HQ split Zurich/Lausanne.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.105,
+     56.95
+    ]
+   },
+   "properties": {
+    "title": "Tilde",
+    "description": "Riga, LV. TildeOpen open multilingual LLM. L7 · Frontier labs. Confidence: medium.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3151,
+     51.4346
+    ]
+   },
+   "properties": {
+    "title": "Wayve",
+    "description": "London, UK. Embodied AI driving foundation models. L7 · Frontier labs. Confidence: high.",
+    "marker-color": "#1f77b4",
+    "marker-size": "small",
+    "layer": "L7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.2729,
+     52.5044
+    ]
+   },
+   "properties": {
+    "title": "Ada Health",
+    "description": "Berlin, DE. AI symptom assessment. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.5713,
+     48.8249
+    ]
+   },
+   "properties": {
+    "title": "Adaptive ML",
+    "description": "Paris, FR. Reinforcement-tuning of enterprise LLMs. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.636,
+     48.137
+    ]
+   },
+   "properties": {
+    "title": "Alpine Eagle",
+    "description": "Munich, DE. AI counter-drone systems. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5134,
+     48.1752
+    ]
+   },
+   "properties": {
+    "title": "ARX Robotics",
+    "description": "Munich, DE. Autonomous military ground robots. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.258,
+     51.752
+    ]
+   },
+   "properties": {
+    "title": "Brainomix",
+    "description": "Oxford, UK. AI stroke imaging. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2183,
+     48.9837
+    ]
+   },
+   "properties": {
+    "title": "Capgemini",
+    "description": "Paris, FR. IT services, large AI practice. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.5851,
+     48.068
+    ]
+   },
+   "properties": {
+    "title": "Celonis",
+    "description": "Munich, DE. Process intelligence with AI. L8 · Delivery and applications. Confidence: medium. Dual HQ Munich/New York.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.774,
+     51.228
+    ]
+   },
+   "properties": {
+    "title": "Cognigy",
+    "description": "Dusseldorf, DE. Conversational AI for contact centres. L8 · Delivery and applications. Confidence: medium. Acquired by NICE (Israel) 2025.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.752,
+     59.914
+    ]
+   },
+   "properties": {
+    "title": "Cognite",
+    "description": "Oslo, NO. Industrial AI data platform. L8 · Delivery and applications. Confidence: medium. Majority-owned by Aker.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0913,
+     51.4749
+    ]
+   },
+   "properties": {
+    "title": "Colossyan",
+    "description": "London, UK. AI avatar video. L8 · Delivery and applications. Confidence: low.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.568,
+     55.676
+    ]
+   },
+   "properties": {
+    "title": "Corti",
+    "description": "Copenhagen, DK. AI for clinical conversations. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3213,
+     48.6983
+    ]
+   },
+   "properties": {
+    "title": "Dassault Systemes",
+    "description": "Paris, FR. 3D software with AI (Velizy HQ). L8 · Delivery and applications. Confidence: medium. HQ at Velizy-Villacoublay.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.8974,
+     50.9782
     ]
    },
    "properties": {
     "title": "DeepL",
-    "description": "Cologne, DE. AI translation and writing. L8 · Delivery & applications",
+    "description": "Cologne, DE. AI translation and writing. L8 · Delivery and applications. Confidence: medium.",
     "marker-color": "#2ca02c",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L8"
    }
   },
@@ -703,15 +6908,151 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     11.6356,
-     48.0259
+     13.529,
+     52.4674
+    ]
+   },
+   "properties": {
+    "title": "deepset",
+    "description": "Berlin, DE. Haystack framework and enterprise AI platform. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.5411,
+     48.9634
+    ]
+   },
+   "properties": {
+    "title": "Doctolib",
+    "description": "Paris, FR. Health platform with AI assistants. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.0977,
+     48.8639
+    ]
+   },
+   "properties": {
+    "title": "Dust",
+    "description": "Paris, FR. Enterprise AI agent platform. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.2617,
+     51.6337
+    ]
+   },
+   "properties": {
+    "title": "Faculty",
+    "description": "London, UK. Applied AI for enterprise and defence. L8 · Delivery and applications. Confidence: low. Possibly acquired by Accenture in 2026 (recollection, unverified).",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1587,
+     51.3483
+    ]
+   },
+   "properties": {
+    "title": "Flawless AI",
+    "description": "London, UK. AI dubbing and visual dubbing. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0611,
+     51.6134
+    ]
+   },
+   "properties": {
+    "title": "Fyxer AI",
+    "description": "London, UK. AI email assistant. L8 · Delivery and applications. Confidence: low.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.5375,
+     48.7341
+    ]
+   },
+   "properties": {
+    "title": "Gladia",
+    "description": "Paris, FR. Speech-to-text API. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.3394,
+     49.0357
+    ]
+   },
+   "properties": {
+    "title": "Harmattan AI",
+    "description": "Paris, FR. AI combat drones. L8 · Delivery and applications. Confidence: high. $200M Series B Jan 2026, Dassault-led.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.4046,
+     48.1882
     ]
    },
    "properties": {
     "title": "Helsing",
-    "description": "Munich, DE. Defence AI. L8 · Delivery & applications",
+    "description": "Munich, DE. Defence AI. L8 · Delivery and applications. Confidence: medium.",
     "marker-color": "#2ca02c",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L8"
    }
   },
@@ -720,15 +7061,389 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     17.89,
-     59.33
+     14.438,
+     50.075
+    ]
+   },
+   "properties": {
+    "title": "JetBrains",
+    "description": "Prague, CZ. IDEs with AI assistant and Junie agent. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0064,
+     59.3672
+    ]
+   },
+   "properties": {
+    "title": "Klarna",
+    "description": "Stockholm, SE. Fintech with AI assistant. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0781,
+     59.26
+    ]
+   },
+   "properties": {
+    "title": "Legora",
+    "description": "Stockholm, SE. AI legal assistant. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.142,
+     59.3925
+    ]
+   },
+   "properties": {
+    "title": "Leya",
+    "description": "Stockholm, SE. Legal AI assistant. L8 · Delivery and applications. Confidence: low.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0288,
+     59.4322
     ]
    },
    "properties": {
     "title": "Lovable",
-    "description": "Stockholm, SE. AI app builder. L8 · Delivery & applications",
+    "description": "Stockholm, SE. AI app builder. L8 · Delivery and applications. Confidence: medium.",
     "marker-color": "#2ca02c",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0564,
+     52.2432
+    ]
+   },
+   "properties": {
+    "title": "Luminance",
+    "description": "Cambridge, UK. AI contract review for legal. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.981,
+     43.318
+    ]
+   },
+   "properties": {
+    "title": "Multiverse Computing",
+    "description": "San Sebastian, ES. Model compression (CompactifAI). L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3638,
+     52.6222
+    ]
+   },
+   "properties": {
+    "title": "n8n",
+    "description": "Berlin, DE. AI workflow automation. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.176,
+     48.7162
+    ]
+   },
+   "properties": {
+    "title": "Nabla",
+    "description": "Paris, FR. Ambient AI clinical scribe. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.633,
+     46.52
+    ]
+   },
+   "properties": {
+    "title": "Neural Concept",
+    "description": "Lausanne, CH. AI engineering simulation. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.6309,
+     48.8822
+    ]
+   },
+   "properties": {
+    "title": "Owkin",
+    "description": "Paris, FR. AI for drug discovery and diagnostics. L8 · Delivery and applications. Confidence: medium. Also New York office.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3268,
+     52.4196
+    ]
+   },
+   "properties": {
+    "title": "Parloa",
+    "description": "Berlin, DE. AI customer-service agents. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.9041,
+     52.301
+    ]
+   },
+   "properties": {
+    "title": "Philips",
+    "description": "Amsterdam, NL. Health tech with AI imaging. L8 · Delivery and applications. Confidence: medium. Headquartered in Amsterdam.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1157,
+     48.9664
+    ]
+   },
+   "properties": {
+    "title": "Photoroom",
+    "description": "Paris, FR. AI photo editing app. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.5741,
+     52.5612
+    ]
+   },
+   "properties": {
+    "title": "Pitch",
+    "description": "Berlin, DE. AI presentation software. L8 · Delivery and applications. Confidence: low.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3823,
+     51.5139
+    ]
+   },
+   "properties": {
+    "title": "PolyAI",
+    "description": "London, UK. Voice assistants for customer service. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4168,
+     48.6659
+    ]
+   },
+   "properties": {
+    "title": "Preligens",
+    "description": "Paris, FR. AI geospatial intelligence for defence. L8 · Delivery and applications. Confidence: medium. Acquired by Safran 2024.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.649,
+     48.2005
+    ]
+   },
+   "properties": {
+    "title": "Pruna AI",
+    "description": "Munich, DE. Model optimisation for inference. L8 · Delivery and applications. Confidence: low. HQ Munich/Paris, from memory.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0575,
+     51.3841
+    ]
+   },
+   "properties": {
+    "title": "Quantexa",
+    "description": "London, UK. Decision intelligence and entity resolution. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.4439,
+     48.1214
+    ]
+   },
+   "properties": {
+    "title": "Quantum Systems",
+    "description": "Munich, DE. AI-enabled defence and survey drones. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.2296,
+     52.5682
+    ]
+   },
+   "properties": {
+    "title": "Rasa",
+    "description": "Berlin, DE. Conversational AI framework. L8 · Delivery and applications. Confidence: medium. Also US presence.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.523,
+     50.45
+    ]
+   },
+   "properties": {
+    "title": "Respeecher",
+    "description": "Kyiv, UA. Voice cloning. L8 · Delivery and applications. Confidence: medium. Ukraine, Europe.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.9369,
+     59.3134
+    ]
+   },
+   "properties": {
+    "title": "Sana",
+    "description": "Stockholm, SE. AI knowledge and learning platform. L8 · Delivery and applications. Confidence: medium. Acquired by Workday 2025.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
     "layer": "L8"
    }
   },
@@ -743,9 +7458,9 @@
    },
    "properties": {
     "title": "SAP",
-    "description": "Walldorf, DE. Enterprise software with embedded AI. L8 · Delivery & applications",
+    "description": "Walldorf, DE. Enterprise software with embedded AI. L8 · Delivery and applications. Confidence: medium.",
     "marker-color": "#2ca02c",
-    "marker-size": "medium",
+    "marker-size": "small",
     "layer": "L8"
    }
   },
@@ -754,15 +7469,202 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -0.13,
-     51.39
+     11.7,
+     48.0844
+    ]
+   },
+   "properties": {
+    "title": "Siemens",
+    "description": "Munich, DE. Industrial AI and copilots. L8 · Delivery and applications. Confidence: high.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.143,
+     46.204
+    ]
+   },
+   "properties": {
+    "title": "SOPHiA GENETICS",
+    "description": "Geneva, CH. AI genomic analytics (HQ Rolle/Geneva area). L8 · Delivery and applications. Confidence: medium. Nasdaq-listed; HQ in Rolle, Vaud.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.193,
+     59.2764
+    ]
+   },
+   "properties": {
+    "title": "Spotify",
+    "description": "Stockholm, SE. Streaming with AI DJ and recommendations. L8 · Delivery and applications. Confidence: medium. Luxembourg-incorporated.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4894,
+     52.3999
+    ]
+   },
+   "properties": {
+    "title": "Stark Defence",
+    "description": "Berlin, DE. Autonomous strike drones. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1607,
+     51.3513
     ]
    },
    "properties": {
     "title": "Synthesia",
-    "description": "London, UK. AI video generation. L8 · Delivery & applications",
+    "description": "London, UK. AI video generation. L8 · Delivery and applications. Confidence: medium.",
     "marker-color": "#2ca02c",
-    "marker-size": "medium",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4671,
+     52.6522
+    ]
+   },
+   "properties": {
+    "title": "Synthflow",
+    "description": "Berlin, DE. Voice AI agents. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.0278,
+     59.4312
+    ]
+   },
+   "properties": {
+    "title": "Tandem Health",
+    "description": "Stockholm, SE. AI medical scribe. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.079,
+     38.722
+    ]
+   },
+   "properties": {
+    "title": "Tekever",
+    "description": "Lisbon, PT. AI-enabled unmanned systems. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1406,
+     51.6857
+    ]
+   },
+   "properties": {
+    "title": "Tessl",
+    "description": "London, UK. AI-native software development. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.304,
+     51.3662
+    ]
+   },
+   "properties": {
+    "title": "Tractable",
+    "description": "London, UK. AI vehicle damage assessment. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.2016,
+     38.7602
+    ]
+   },
+   "properties": {
+    "title": "Unbabel",
+    "description": "Lisbon, PT. AI translation for customer support. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
+    "layer": "L8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1509,
+     51.5322
+    ]
+   },
+   "properties": {
+    "title": "Veed",
+    "description": "London, UK. AI video editing. L8 · Delivery and applications. Confidence: medium.",
+    "marker-color": "#2ca02c",
+    "marker-size": "small",
     "layer": "L8"
    }
   }
